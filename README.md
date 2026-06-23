@@ -111,7 +111,7 @@ Joined March 2009
   
    Kaizen D. Asiedu (@thatsKAIZEN on X) is a Harvard-educated philosopher, Emmy Award-winning producer, and cultural commentator who creates content aimed at helping people cut through media bias and political manipulation.
 
-
+<!--
 
 ## Online Magazines & Newsletters
 - **[Publication Name](link)** — What makes it worth reading.
@@ -123,6 +123,7 @@ Joined March 2009
 
 ## Books
 - **[Book Title](link)** by Author — Quick reason.
+-->
 
 ---
 
