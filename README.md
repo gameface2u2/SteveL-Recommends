@@ -15,7 +15,20 @@ Last updated: {{ date }}
 - **[Another Channel](link)** — Description.
 
 ## X / Twitter Accounts
-- [Dr. Jeffrey Lewis](https://x.com/ArmsControlWonk) — Why I follow them.
+- [Dr. Jeffrey Lewis](https://x.com/ArmsControlWonk) — Distinguished Scholar of Global Security at 
+@middlebury
+, staff at 
+@fpri
+ & 
+@JamesMartinCNS
+, host of the 
+@ACWpodcast
+, member 
+@theNASEM
+ CISAC, ex-ISAB at 
+@StateDep
+Non-Governmental & Nonprofit Organization Carmel, CAarmscontrolwonk.com
+Joined March 2009
 - [@anotheruser](https://x.com/anotheruser) — Description.
 
 ## Online Magazines & Newsletters
