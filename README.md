@@ -89,34 +89,31 @@ Joined March 2009
   
    Visegrád 24 is a popular, highly influential news aggregator account on X (formerly Twitter) founded by Stefan Tompson that curates and repacks global events with a pro-Western and conservative editorial spin.
 
-- [Firstname Lastname](https://x.com/Xhandle) - Blah Blah Blah from X.
+- [Harmeet Dhillon](https://x.com/DhilonX) - The frontline of the battle for civil liberties, election integrity, and constitutional law.
+  
+   Harmeet Dhillon is an American attorney and Republican Party leader who serves as the Assistant Attorney General for the Civil Rights Division at the U.S. Department of Justice.
+
+- [Bill Ackman](https://x.com/BillAckman) - CEO Pershing Square.
+  
+   Bill Ackman is an American billionaire hedge fund manager and the founder of Pershing Square Capital Management, who has also become a highly influential and outspoken voice on X by frequently sharing his perspectives on business, politics, and social issues with his massive following.
+
+- [Lex Fridman](https://x.com/lexfridman) - Host of Lex Fridman Podcast. Interested in robots and humans.
+  
+   Lex Fridman is a Russian-born American computer scientist, MIT researcher, and widely popular podcaster known for hosting long-form, deep-dive interviews with prominent figures across artificial intelligence, science, philosophy, and global culture.
+
+- [Robert Sterling](https://x.com/RobertMSterling) - Finance bro. American. Marine. Christian.
+  
+   Robert Sterling, active on X (formerly Twitter) as @RobertMSterling, is a corporate-finance professional, private equity/M&A consultant, and veteran who gained a broad following for sharing a mix of insightful business commentary, personal anecdotes, and viral, sometimes cynical observations about white-collar corporate culture.
+
+- [Mike Mazza](https://x.com/mike_mazza) - Mike Mazza is a political and cultural commentator on the social media platform X who is well-known for his provocative analysis on United States-Asia foreign policy.
   
    Ask Google who they are.
 
-- [Firstname Lastname](https://x.com/Xhandle) - Blah Blah Blah from X.
+- [Kaizen Asiedu](https://x.com/thatsKAIZEN) - Clear Thinker. Harvard ‘12, Emmy Winner. 
   
-   Ask Google who they are.
+   Kaizen D. Asiedu (@thatsKAIZEN on X) is a Harvard-educated philosopher, Emmy Award-winning producer, and cultural commentator who creates content aimed at helping people cut through media bias and political manipulation.
 
-- [Firstname Lastname](https://x.com/Xhandle) - Blah Blah Blah from X.
-  
-   Ask Google who they are.
 
-- [Firstname Lastname](https://x.com/Xhandle) - Blah Blah Blah from X.
-  
-   Ask Google who they are.
-
-- [Firstname Lastname](https://x.com/Xhandle) - Blah Blah Blah from X.
-  
-   Ask Google who they are.
-
-- [Firstname Lastname](https://x.com/Xhandle) - Blah Blah Blah from X.
-  
-   Ask Google who they are.
-
-- [Firstname Lastname](https://x.com/Xhandle) - Blah Blah Blah from X.
-  
-   Ask Google who they are.
-  
 
 ## Online Magazines & Newsletters
 - **[Publication Name](link)** — What makes it worth reading.
