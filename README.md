@@ -1,4 +1,4 @@
-# SteveL Recommends
+# Steve L Recommends
 
 Curated list of podcasts, YouTube channels, X accounts, magazines, and other resources I personally enjoy and recommend.
 
