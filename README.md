@@ -55,9 +55,15 @@ Joined March 2009
 
    Note: Peter has a serious case of TDS, so take what he says about Trump and the current administration with a grain of salt. But overall, in other subjects, he gets a lot of things right.
 
-- [Walter Russell Mead](https://x.com/wrmead) - Geopolitical strategist, speaker, author.
+- [Walter Russell Mead](https://x.com/wrmead) - Scholar 
+@HudsonInstitute
+, professor 
+@UF
+ and columnist 
+@WSJ
+. Latest book The Arc of a Covenant available for purchase using the link below.
 
-   Peter Zeihan is a geopolitical strategist, best-selling author, and founder of Zeihan on Geopolitics who forecasts global trends by combining the hard realities of geography, demography, and energy.
+  Walter Russell Mead is a prominent American foreign policy scholar, author, and Wall Street Journal global view columnist who serves as a Distinguished Fellow at the Hudson Institute and a professor at Bard College.
   
 
 ## Online Magazines & Newsletters
