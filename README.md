@@ -43,6 +43,8 @@ Joined March 2009
 
   Salvatore Mercogliano is an Associate Professor of History and the chair of the History, Criminal Justice, and Political Science Department at Campbell University in North Carolina. He holds a B.S. in Marine Transportation from SUNY Maritime College along with a merchant marine deck officer license.
 
+- [Ross Kennedy](https://x.com/maphumanintent) - Ross Kennedy is a global supply chain and logistics expert, geopolitical commentator, and founder of Fortis Analysis who provides sharp, often national security-focused insights into how international shipping networks and supply chains map to strategic human and national intents.
+
 ## Online Magazines & Newsletters
 - **[Publication Name](link)** — What makes it worth reading.
 - **[Another Publication](link)** — Description.
