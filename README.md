@@ -69,7 +69,19 @@ Joined March 2009
   
    CDR Salamander (often referred to as Sal) is the pseudonym of a retired U.S. Navy Commander who operates a widely read CDR Salamander | Substack blog dedicated to naval history, maritime strategy, and defense policy.
 
-  - [Firstname Lastname](https://x.com/Xhandle) - Blah Blah Blah from X.
+- [Jennica Pounds](https://x.com/datarepublican) - I'm just a tool builder. • Elon Musk - “Worth following” • Charlie Kirk - “You're a must follow” • Contact: datarepublicanx@proton.me • Substack: datarepublican
+
+   Jennica Pounds is a Utah-based software engineer who gained prominence on X by utilizing artificial intelligence to track federal spending, visualize government grants, and guide Elon Musk's Department of Government Efficiency (DOGE).
+
+- [Firstname Lastname](https://x.com/infantrydort) - Just an Infantryman trying to close with and destroy. Motivated to make the U.S. Infantry lethal again. Active Duty LTC. 11M to 11B to 11A. Views are my own.
+  
+   @infantrydort of X is an active-duty U.S. military officer and prolific Substack Author who uses his InfantryDort X Profile to advocate for military reform, prioritize combat readiness, and champion warrior culture.
+
+- [Firstname Lastname](https://x.com/Xhandle) - Blah Blah Blah from X.
+  
+   Ask Google who they are.
+
+- [Firstname Lastname](https://x.com/Xhandle) - Blah Blah Blah from X.
   
    Ask Google who they are.
 
@@ -81,19 +93,7 @@ Joined March 2009
   
    Ask Google who they are.
 
-  - [Firstname Lastname](https://x.com/Xhandle) - Blah Blah Blah from X.
-  
-   Ask Google who they are.
-
 - [Firstname Lastname](https://x.com/Xhandle) - Blah Blah Blah from X.
-  
-   Ask Google who they are.
-
-- [Firstname Lastname](https://x.com/Xhandle) - Blah Blah Blah from X.
-  
-   Ask Google who they are.
-
-  - [Firstname Lastname](https://x.com/Xhandle) - Blah Blah Blah from X.
   
    Ask Google who they are.
 
@@ -105,7 +105,7 @@ Joined March 2009
   
    Ask Google who they are.
 
-  - [Firstname Lastname](https://x.com/Xhandle) - Blah Blah Blah from X.
+- [Firstname Lastname](https://x.com/Xhandle) - Blah Blah Blah from X.
   
    Ask Google who they are.
 
