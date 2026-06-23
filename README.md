@@ -106,9 +106,7 @@ Joined March 2009
    Robert Sterling, active on X (formerly Twitter) as @RobertMSterling, is a corporate-finance professional, private equity/M&A consultant, and veteran who gained a broad following for sharing a mix of insightful business commentary, personal anecdotes, and viral, sometimes cynical observations about white-collar corporate culture.
 
 - [Mike Mazza](https://x.com/mike_mazza) - Mike Mazza is a political and cultural commentator on the social media platform X who is well-known for his provocative analysis on United States-Asia foreign policy.
-  
-   Ask Google who they are.
-
+    
 - [Kaizen Asiedu](https://x.com/thatsKAIZEN) - Clear Thinker. Harvard ‘12, Emmy Winner. 
   
    Kaizen D. Asiedu (@thatsKAIZEN on X) is a Harvard-educated philosopher, Emmy Award-winning producer, and cultural commentator who creates content aimed at helping people cut through media bias and political manipulation.
