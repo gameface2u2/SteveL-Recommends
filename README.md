@@ -81,13 +81,13 @@ Joined March 2009
   
    Based in Los Angeles, Machina Labs is an advanced manufacturing company that combines artificial intelligence and robotics to create intelligent factories that can form and shape metal directly from digital designs without the need for traditional, part-specific tooling.
 
-- [Firstname Lastname](https://x.com/Xhandle) - Blah Blah Blah from X.
+- [Edward Mehr](https://x.com/@EdwardMehr) - Building high-mix high-volume future with robots and AI @machinalabs_
   
-   Ask Google who they are.
+   Edward Mehr is an entrepreneur and engineer who co-founded and leads Machina Labs, a company that revolutionizes modern manufacturing by using Physical AI and autonomous robotics to transform raw metal into complex parts in days rather than months.
 
-- [Firstname Lastname](https://x.com/Xhandle) - Blah Blah Blah from X.
+- [Visegrád 24](https://x.com/visegrad24) - Curating news, politics and current affairs.
   
-   Ask Google who they are.
+   Visegrád 24 is a popular, highly influential news aggregator account on X (formerly Twitter) founded by Stefan Tompson that curates and repacks global events with a pro-Western and conservative editorial spin.
 
 - [Firstname Lastname](https://x.com/Xhandle) - Blah Blah Blah from X.
   
