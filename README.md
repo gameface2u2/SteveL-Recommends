@@ -52,6 +52,7 @@ Joined March 2009
 - [Peter Zeihan](https://x.com/PeterZeihan) - Geopolitical strategist, speaker, author.
 
    Peter Zeihan is a geopolitical strategist, best-selling author, and founder of Zeihan on Geopolitics who forecasts global trends by combining the hard realities of geography, demography, and energy.
+   Note: Peter has a serious case of TDS, so take what he says about Trump and the current administration with a grain of salt. But overall, in other subjects, he gets a lot of things right.
 
 ## Online Magazines & Newsletters
 - **[Publication Name](link)** — What makes it worth reading.
