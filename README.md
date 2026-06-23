@@ -37,7 +37,7 @@ Joined March 2009
 
   John Spencer is a retired U.S. Army major, combat veteran, and internationally recognized expert who serves as the chair of urban warfare studies at the Modern War Institute at West Point.
 
-- [Sal Mercoglianos] (https://x.com/mercoglianos) - Chair Dept of History, Crim Justice & Pol Science, Faculty Athletic Rep 
+- [Sal Mercoglianos](https://x.com/mercoglianos) - Chair Dept of History, Crim Justice & Pol Science, Faculty Athletic Rep 
 @campbelledu
 , Maritime Historian, Mariner, Firefighter & What's Going On With Shipping?
 
