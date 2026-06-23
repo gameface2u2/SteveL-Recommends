@@ -2,7 +2,7 @@
 
 Curated list of podcasts, YouTube channels, X accounts, magazines, and other resources I personally enjoy and recommend.
 
-Last updated: {{ date }}
+Last updated: {{ 6/23/26 }}
 
 ---
 
