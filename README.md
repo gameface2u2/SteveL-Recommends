@@ -37,6 +37,12 @@ Joined March 2009
 
   John Spencer is a retired U.S. Army major, combat veteran, and internationally recognized expert who serves as the chair of urban warfare studies at the Modern War Institute at West Point.
 
+- [Sal Mercoglianos] (https://x.com/mercoglianos) - Chair Dept of History, Crim Justice & Pol Science, Faculty Athletic Rep 
+@campbelledu
+, Maritime Historian, Mariner, Firefighter & What's Going On With Shipping?
+
+  Salvatore Mercogliano is an Associate Professor of History and the chair of the History, Criminal Justice, and Political Science Department at Campbell University in North Carolina. He holds a B.S. in Marine Transportation from SUNY Maritime College along with a merchant marine deck officer license.
+
 ## Online Magazines & Newsletters
 - **[Publication Name](link)** — What makes it worth reading.
 - **[Another Publication](link)** — Description.
