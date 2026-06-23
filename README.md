@@ -10,7 +10,7 @@ Last updated: {{ 6/23/26 }}
 - **[Podcast Name](link)** — Short description of why I like it.
 - **[Another Podcast](link)** — Description.
 -->
-## YouTube Channels
+## YouTube Channel
 - **[What's Going on With Shipping?](https://www.youtube.com/@wgowshipping)** — What's Going on With Shipping, hosted by Sal Mercogliano, focuses on Maritime Industry Policy, and current events in the Maritime Sector, along with Maritime History.   The channel features videos that examine the world's merchant marines, the international maritime sector, current events in the maritime trade, and history.
 <!-- - **[Another Channel](link)** — Description. -->
 
