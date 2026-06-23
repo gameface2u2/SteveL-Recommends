@@ -35,7 +35,7 @@ Joined March 2009
 @urbanwarfareins
  | UWP podcast | Thoughts/Posts my own RT/Quote/Like ≠ Official Gov
 
-John Spencer is a retired U.S. Army major, combat veteran, and internationally recognized expert who serves as the chair of urban warfare studies at the Modern War Institute at West Point.
+  John Spencer is a retired U.S. Army major, combat veteran, and internationally recognized expert who serves as the chair of urban warfare studies at the Modern War Institute at West Point.
 
 ## Online Magazines & Newsletters
 - **[Publication Name](link)** — What makes it worth reading.
