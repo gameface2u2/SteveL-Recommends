@@ -49,6 +49,9 @@ Joined March 2009
   
    John Konrad V is a licensed Master Mariner and veteran offshore captain who founded gCaptain, the world's leading maritime news and professional networking platform.
 
+- [Peter Zeihan](https://x.com/PeterZeihan) - Geopolitical strategist, speaker, author.
+   Peter Zeihan is a geopolitical strategist, best-selling author, and founder of Zeihan on Geopolitics who forecasts global trends by combining the hard realities of geography, demography, and energy.
+
 ## Online Magazines & Newsletters
 - **[Publication Name](link)** — What makes it worth reading.
 - **[Another Publication](link)** — Description.
