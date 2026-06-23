@@ -68,6 +68,54 @@ Joined March 2009
 - [CDR Salamander](https://x.com/cdrsalamander) - Owner of the milblog CDR Salamander and co-host of the Midrats podcast (http://spreaker.com/show/midrats).
   
    CDR Salamander (often referred to as Sal) is the pseudonym of a retired U.S. Navy Commander who operates a widely read CDR Salamander | Substack blog dedicated to naval history, maritime strategy, and defense policy.
+
+  - [Firstname Lastname](https://x.com/Xhandle) - Blah Blah Blah from X.
+  
+   Ask Google who they are.
+
+- [Firstname Lastname](https://x.com/Xhandle) - Blah Blah Blah from X.
+  
+   Ask Google who they are.
+
+- [Firstname Lastname](https://x.com/Xhandle) - Blah Blah Blah from X.
+  
+   Ask Google who they are.
+
+  - [Firstname Lastname](https://x.com/Xhandle) - Blah Blah Blah from X.
+  
+   Ask Google who they are.
+
+- [Firstname Lastname](https://x.com/Xhandle) - Blah Blah Blah from X.
+  
+   Ask Google who they are.
+
+- [Firstname Lastname](https://x.com/Xhandle) - Blah Blah Blah from X.
+  
+   Ask Google who they are.
+
+  - [Firstname Lastname](https://x.com/Xhandle) - Blah Blah Blah from X.
+  
+   Ask Google who they are.
+
+- [Firstname Lastname](https://x.com/Xhandle) - Blah Blah Blah from X.
+  
+   Ask Google who they are.
+
+- [Firstname Lastname](https://x.com/Xhandle) - Blah Blah Blah from X.
+  
+   Ask Google who they are.
+
+  - [Firstname Lastname](https://x.com/Xhandle) - Blah Blah Blah from X.
+  
+   Ask Google who they are.
+
+- [Firstname Lastname](https://x.com/Xhandle) - Blah Blah Blah from X.
+  
+   Ask Google who they are.
+
+- [Firstname Lastname](https://x.com/Xhandle) - Blah Blah Blah from X.
+  
+   Ask Google who they are.
   
 
 ## Online Magazines & Newsletters
