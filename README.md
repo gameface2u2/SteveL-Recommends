@@ -11,7 +11,7 @@ Last updated: {{ 6/23/26 }}
 - **[Another Podcast](link)** — Description.
 -->
 ## YouTube Channels
-- **[What's Going on With Shipping?](https://www.youtube.com/@wgowshipping)** — What's Going on With Shipping, hosted by Sal Mercoglianos, focuses on Maritime Industry Policy, and current events in the Maritime Sector, along with Maritime History.   The channel features videos that examine the world's merchant marines, the international maritime sector, current events in the maritime trade, and history.
+- **[What's Going on With Shipping?](https://www.youtube.com/@wgowshipping)** — What's Going on With Shipping, hosted by Sal Mercogliano, focuses on Maritime Industry Policy, and current events in the Maritime Sector, along with Maritime History.   The channel features videos that examine the world's merchant marines, the international maritime sector, current events in the maritime trade, and history.
 <!-- - **[Another Channel](link)** — Description. -->
 
 ## X / Twitter Accounts
@@ -37,7 +37,7 @@ Joined March 2009
 
   John Spencer is a retired U.S. Army major, combat veteran, and internationally recognized expert who serves as the chair of urban warfare studies at the Modern War Institute at West Point.
 
-- [Sal Mercoglianos](https://x.com/mercoglianos) - Chair Dept of History, Crim Justice & Pol Science, Faculty Athletic Rep 
+- [Sal Mercogliano](https://x.com/mercoglianos) - Chair Dept of History, Crim Justice & Pol Science, Faculty Athletic Rep 
 @campbelledu
 , Maritime Historian, Mariner, Firefighter & What's Going On With Shipping?
 
