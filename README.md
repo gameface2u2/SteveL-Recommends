@@ -15,7 +15,7 @@ Last updated: {{ date }}
 - **[Another Channel](link)** — Description.
 
 ## X / Twitter Accounts
-- [@username](https://x.com/username) — Why I follow them.
+- [Dr. Jeffrey Lewis](https://x.com/ArmsControlWonk) — Why I follow them.
 - [@anotheruser](https://x.com/anotheruser) — Description.
 
 ## Online Magazines & Newsletters
