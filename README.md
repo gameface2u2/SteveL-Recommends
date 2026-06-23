@@ -34,6 +34,7 @@ Joined March 2009
 - [John Spencer](https://x.com/SpencerGuard) — War Scholar | Chair of War Studies Madison Policy Forum | Executive Director 
 @urbanwarfareins
  | UWP podcast | Thoughts/Posts my own RT/Quote/Like ≠ Official Gov
+
 John Spencer is a retired U.S. Army major, combat veteran, and internationally recognized expert who serves as the chair of urban warfare studies at the Modern War Institute at West Point.
 
 ## Online Magazines & Newsletters
