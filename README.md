@@ -27,7 +27,7 @@ Last updated: {{ date }}
 @theNASEM
  CISAC, ex-ISAB at 
 @StateDep
-Non-Governmental & Nonprofit Organization Carmel, CAarmscontrolwonk.com
+Non-Governmental & Nonprofit Organization Carmel, CA. armscontrolwonk.com
 Joined March 2009
 - [@anotheruser](https://x.com/anotheruser) — Description.
 
