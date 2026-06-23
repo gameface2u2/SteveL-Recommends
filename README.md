@@ -46,6 +46,7 @@ Joined March 2009
 - [Ross Kennedy](https://x.com/maphumanintent) - Ross Kennedy is a global supply chain and logistics expert, geopolitical commentator, and founder of Fortis Analysis who provides sharp, often national security-focused insights into how international shipping networks and supply chains map to strategic human and national intents.
 
 - [John Konrad V](https://x.com/johnkonrad) - CEO @gCaptain | US Merchant Marine | Ship Captain | Pentagon Press | Author: Fire on the Horizon | Shipbuilder | Blacklisted by Wikipedia | K5HIP
+  
    John Konrad V is a licensed Master Mariner and veteran offshore captain who founded gCaptain, the world's leading maritime news and professional networking platform.
 
 ## Online Magazines & Newsletters
