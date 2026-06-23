@@ -64,6 +64,10 @@ Joined March 2009
 . Latest book The Arc of a Covenant available for purchase using the link below.
 
   Walter Russell Mead is a prominent American foreign policy scholar, author, and Wall Street Journal global view columnist who serves as a Distinguished Fellow at the Hudson Institute and a professor at Bard College.
+
+- [CDR Salamander](https://x.com/cdrsalamander) - Owner of the milblog CDR Salamander and co-host of the Midrats podcast (http://spreaker.com/show/midrats).
+  
+   CDR Salamander (often referred to as Sal) is the pseudonym of a retired U.S. Navy Commander who operates a widely read CDR Salamander | Substack blog dedicated to naval history, maritime strategy, and defense policy.
   
 
 ## Online Magazines & Newsletters
