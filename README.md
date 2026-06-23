@@ -15,7 +15,9 @@ Last updated: {{ date }}
 - **[Another Channel](link)** — Description.
 
 ## X / Twitter Accounts
-- [Dr. Jeffrey Lewis](https://x.com/ArmsControlWonk) — Distinguished Scholar of Global Security at 
+- [Dr. Jeffrey Lewis](https://x.com/ArmsControlWonk) — Dr. Jeffrey Lewis is an American academic, author, and globally recognized expert in nuclear nonproliferation who directs the East Asia Nonproliferation Program at the James Martin Center for Nonproliferation Studies and frequently utilizes open-source intelligence to monitor global weapons programs.
+- 
+Distinguished Scholar of Global Security at 
 @middlebury
 , staff at 
 @fpri
