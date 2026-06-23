@@ -73,13 +73,13 @@ Joined March 2009
 
    Jennica Pounds is a Utah-based software engineer who gained prominence on X by utilizing artificial intelligence to track federal spending, visualize government grants, and guide Elon Musk's Department of Government Efficiency (DOGE).
 
-- [Firstname Lastname](https://x.com/infantrydort) - Just an Infantryman trying to close with and destroy. Motivated to make the U.S. Infantry lethal again. Active Duty LTC. 11M to 11B to 11A. Views are my own.
+- [InfantryDort](https://x.com/infantrydort) - Just an Infantryman trying to close with and destroy. Motivated to make the U.S. Infantry lethal again. Active Duty LTC. 11M to 11B to 11A. Views are my own.
   
    @infantrydort of X is an active-duty U.S. military officer and prolific Substack Author who uses his InfantryDort X Profile to advocate for military reform, prioritize combat readiness, and champion warrior culture.
 
-- [Firstname Lastname](https://x.com/Xhandle) - Blah Blah Blah from X.
+- [Machina Labs](https://x.com/MachinaLabs_) - Unlocking Manufacturing through Robotics and Artificial Intelligence.
   
-   Ask Google who they are.
+   Based in Los Angeles, Machina Labs is an advanced manufacturing company that combines artificial intelligence and robotics to create intelligent factories that can form and shape metal directly from digital designs without the need for traditional, part-specific tooling.
 
 - [Firstname Lastname](https://x.com/Xhandle) - Blah Blah Blah from X.
   
