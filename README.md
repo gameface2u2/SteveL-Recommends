@@ -11,7 +11,7 @@ Last updated: {{ 6/23/26 }}
 - **[Another Podcast](link)** — Description.
 -->
 ## YouTube Channels
-- **[What's Going on With Shipping?](www.youtube.com/@wgowshipping)** — What they cover.
+- **[What's Going on With Shipping?](https://www.youtube.com/@wgowshipping)** — What's Going on With Shipping focuses on Maritime Industry Policy, and current events in the Maritime Sector, along with Maritime History.   The channel features videos that examine the world's merchant marines, the international maritime sector, current events in the maritime trade, and history.
 <!-- - **[Another Channel](link)** — Description. -->
 
 ## X / Twitter Accounts
