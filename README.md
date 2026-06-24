@@ -30,7 +30,8 @@ Last updated: { 6/23/26 }
  CISAC, ex-ISAB at 
 @StateDep
 Non-Governmental & Nonprofit Organization Carmel, CA. armscontrolwonk.com
-Joined March 2009
+Joined March 2009. Warning, Jeffrey is very sarcastic, and that's not everyone's jam. Also he's not a big Trump fan.
+
 - [John Spencer](https://x.com/SpencerGuard) — War Scholar | Chair of War Studies Madison Policy Forum | Executive Director 
 @urbanwarfareins
  | UWP podcast | Thoughts/Posts my own RT/Quote/Like ≠ Official Gov
