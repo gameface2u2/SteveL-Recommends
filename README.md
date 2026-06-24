@@ -1,6 +1,6 @@
 # Steve L Recommends
 
-Curated list of <!-- podcasts, YouTube channels, --> X accounts <!-- , magazines, and other resources --> I personally enjoy and recommend.
+Curated list of <!-- podcasts, --> YouTube channels and X accounts <!-- , magazines, and other resources --> I personally enjoy and recommend.
 
 Last updated: { 6/23/26 }
 
