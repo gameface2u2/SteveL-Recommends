@@ -43,11 +43,11 @@ Founder of *The Free Press*. Strong voice on culture, free speech, and journalis
 
 **[Lex Fridman](https://x.com/lexfridman)**  
 Long-form interviewer exploring science, technology, philosophy, and the human condition.  
-→ [X](https://x.com/lexfridman) | [YouTube](https://www.youtube.com/@lexfridman)
+→ [X](https://x.com/lexfridman) | [YouTube](https://www.youtube.com/@lexfridman) | [Substack](https://lexfridman.substack.com/)
 
 **[John Spencer](https://x.com/SpencerGuard)**  
 Urban warfare expert at West Point. Host of *The Urban Warfare Project*.  
-→ [X](https://x.com/SpencerGuard) | [Podcast](https://pca.st/podcast/8bfe2910-0a72-0138-9f68-0acc26574db2)
+→ [X](https://x.com/SpencerGuard) | [Podcast](https://pca.st/podcast/8bfe2910-0a72-0138-9f68-0acc26574db2) | [Substack](https://spencerguard.substack.com/)
 
 **[Walter Russell Mead](https://x.com/wrmead)**  
 Historian offering deep historical context on geopolitics and international affairs.  
@@ -69,7 +69,6 @@ West Point graduate, former U.S. Army Field Artillery officer, and Afghanistan c
 **[Michael Shellenberger](https://x.com/shellenberger)**  
 Investigative journalist, best-selling author, and founder of Public. Focuses on free speech, energy, environment, and the censorship-industrial complex.  
 → [X](https://x.com/shellenberger) | [Public (Substack)](https://www.public.news/)
-
 ---
 
 ## Podcasts
