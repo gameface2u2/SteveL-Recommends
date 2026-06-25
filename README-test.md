@@ -232,8 +232,12 @@ Geopolitical and current affairs podcast featuring historian and author Walter R
 
 ## Publications & Newsletters
 
-- **[The Free Press](https://www.thefp.com/)** — Bari Weiss
-- **[gCaptain](https://gcaptain.com/)** — John Konrad V
+- **[The Free Press](https://www.thefp.com/)** — Bari Weiss  
+  Independent media outlet founded by Bari Weiss after her departure from The New York Times. Focuses on in-depth journalism, essays, and investigations that often challenge mainstream narratives on culture, politics, technology, and free speech. Features high-quality writing from a wide range of contributors and includes the popular *Honestly* podcast.
+
+- **[gCaptain](https://gcaptain.com/)** — John Konrad V  
+  The leading online news platform and professional network for the global maritime industry. Provides timely news, analysis, and commentary on shipping, offshore energy, maritime security, shipbuilding, and naval affairs. Highly respected by merchant mariners, shipping executives, and maritime professionals worldwide.
+
 
 ---
 
