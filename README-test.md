@@ -173,6 +173,9 @@ Geopolitical and current affairs podcast featuring historian and author Walter R
 - **[Lex Fridman](https://www.youtube.com/@lexfridman)** — Lex Fridman  
   Long-form, deep conversations exploring science, technology, philosophy, and the human condition.
 
+- **[Preston Stewart](https://www.youtube.com/@PrestonStewart)** — Preston Stewart  
+  Clear, well-researched analysis of modern military conflicts, weapons systems, and defense topics.  
+
 - **[All Hands Magazine](https://www.youtube.com/@AllHandsMagazine)** — Midrats  
   National security and military affairs podcast (video version).
 
@@ -226,6 +229,7 @@ Geopolitical and current affairs podcast featuring historian and author Walter R
 - **[Robert Sterling](https://x.com/RobertMSterling)** — Corporate finance and business commentator.
 - **[Mike Mazza](https://x.com/mike_mazza)** — U.S.-Asia policy and political commentator.
 - **[Kaizen Asiedu](https://x.com/thatsKAIZEN)** — Philosopher and cultural commentator.
+- **[Preston Stewart](https://x.com/prestonstew_)** — Military analysis and modern warfare commentary.
 
 
 ---
