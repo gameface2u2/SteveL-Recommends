@@ -27,6 +27,10 @@ CEO of gCaptain | US Merchant Marine | Ship Captain | Pentagon Press | Author of
 **[Peter Zeihan](https://x.com/PeterZeihan)**  
 Geopolitical strategist, speaker, and best-selling author. Founder of Zeihan on Geopolitics. Forecasts global trends by combining the hard realities of geography, demography, and energy. (Note: Peter has strong opinions on the current Trump administration — take those with a grain of salt, but his analysis on other subjects is often excellent.)
 
+**[Michael Shellenberger](https://x.com/shellenberger)**  
+Investigative journalist, best-selling author of *Apocalypse Never* and *San Fransicko*, and founder of Public. CBR Chair in Politics, Censorship, & Free Speech at the University of Austin. Focuses on free speech, civilization, energy, environment, cities, mental health, and the censorship-industrial complex. Time Magazine “Hero of the Environment” and Dao Prize winner.  
+→ [X](https://x.com/shellenberger) | [Public (Substack)](https://www.public.news/)
+
 **[Walter Russell Mead](https://x.com/wrmead)**  
 Scholar at Hudson Institute, professor at Bard College, and columnist at *The Wall Street Journal*. Prominent American foreign policy scholar and author.
 
@@ -234,6 +238,18 @@ Geopolitical and current affairs podcast featuring historian and author Walter R
 - **[Kaizen Asiedu](https://x.com/thatsKAIZEN)** — Philosopher and cultural commentator.
 - **[Preston Stewart](https://x.com/prestonstew_)** — Military analysis and modern warfare commentary.
 
+---
+
+## Substack
+
+- **[Public](https://www.public.news/)** — Michael Shellenberger  
+  Major independent publication focused on free speech, civilization, energy, environment, cities, mental health, addiction, and the censorship-industrial complex. Hundreds of thousands of subscribers with a mix of free and paid content.
+
+- **[John Spencer - Urban Warfare](https://spencerguard.substack.com/)** — John Spencer  
+  Writing and analysis on urban warfare, modern conflict, and military strategy from the Executive Director of the Urban Warfare Institute.
+
+- **[Lex Fridman](https://lexfridman.substack.com/)** — Lex Fridman  
+  Occasional writing and updates from the host of the Lex Fridman Podcast, focused on science, technology, philosophy, and long-form ideas.
 
 ---
 
