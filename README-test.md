@@ -23,7 +23,7 @@ Hosts of *Acquired* — one of the best business and technology history podcasts
 **[Jeffrey Lewis](https://x.com/ArmsControlWonk)**  
 Nuclear nonproliferation expert and host of *Arms Control Wonk*. Uses open-source intelligence.  
 **Warning, Jeffrey is very sarcastic, and that's not everyone's jam. Also he's not a big Trump fan.**  
-→ [X](https://x.com/ArmsControlWonk) | [YouTube](https://www.youtube.com/@armscontrolwonk)
+→ [X](https://x.com/ArmsControlWonk) | [YouTube](https://www.youtube.com/@armscontrolwonk) | [Podcast](https://pca.st/podcast/eed8f480-b393-0131-cde4-723c91aeae46)
 
 **[Dan Senor](https://x.com/dansenor)**  
 Host of *Call Me Back*. Sharp geopolitical analysis, especially on Israel and the Middle East.  
