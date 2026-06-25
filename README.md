@@ -1,135 +1,268 @@
 # Steve L Recommends
 
-Curated list of <!-- podcasts, --> YouTube channels and X accounts <!-- , magazines, and other resources --> I personally enjoy and recommend.
+Curated list of people, podcasts, YouTube channels, writers, and publications I personally enjoy and often recommend.
 
-Last updated: { 6/23/26 }
+**Last Updated:** June 25, 2026
 
 ---
 
-<!-- ## Podcasts
-- **[Podcast Name](link)** — Short description of why I like it.
-- **[Another Podcast](link)** — Description.
--->
-## YouTube
-- **[What's Going on With Shipping?](https://www.youtube.com/@wgowshipping)** — What's Going on With Shipping, hosted by Sal Mercogliano, focuses on Maritime Industry Policy, and current events in the Maritime Sector, along with Maritime History.   The channel features videos that examine the world's merchant marines, the international maritime sector, current events in the maritime trade, and history.
-<!-- - **[Another Channel](link)** — Description. -->
+## Key People & Thinkers
+
+**[Konstantin Kisin](https://x.com/KonstantinKisin)**  
+Co-host of *Triggernometry*. Excellent on free speech, culture, geopolitics, and current events.  
+→ [X](https://x.com/KonstantinKisin) | [YouTube / Podcast](https://www.youtube.com/@triggerpod)
+
+**[Francis Foster](https://x.com/francisjfoster)**  
+Co-host of *Triggernometry*. Thoughtful long-form conversations.  
+→ [X](https://x.com/francisjfoster) | [YouTube / Podcast](https://www.youtube.com/@triggerpod)
+
+**[Ben Gilbert & David Rosenthal](https://x.com/gilbert)**  
+Hosts of *Acquired* — one of the best business and technology history podcasts.  
+→ [X](https://x.com/gilbert) | [Podcast](https://pca.st/podcast/eed80bc0-599b-0133-cb25-0d11918ab357)
+
+**[Jeffrey Lewis](https://x.com/ArmsControlWonk)**  
+Nuclear nonproliferation expert and host of *Arms Control Wonk*. Uses open-source intelligence.  
+Warning, Jeffrey is very sarcastic, and that's not everyone's jam. Also he's not a big Trump fan.  
+→ [X](https://x.com/ArmsControlWonk) | [YouTube](https://www.youtube.com/@armscontrolwonk) | [Podcast](https://pca.st/podcast/eed8f480-b393-0131-cde4-723c91aeae46)
+
+**[Dan Senor](https://x.com/dansenor)**  
+Host of *Call Me Back*. Sharp geopolitical analysis, especially on Israel and the Middle East.  
+→ [X](https://x.com/dansenor) | [Podcast](https://pca.st/podcast/d3ba2700-07dd-0139-41a2-0acc26574db2)
+
+**[Christopher Cavas & Chris Servello](https://x.com/CavasShips)**  
+Hosts of *CAVASShips*. Deep dives into naval strategy and maritime affairs.  
+→ [X](https://x.com/CavasShips) | [Podcast](https://pca.st/podcast/d0186f00-b039-0139-c1a5-0acc26574db2)
+
+**[Chris Chappell](https://x.com/ChinaUncensored)**  
+Host of *China Unscripted*. Candid discussions on Chinese politics and culture.  
+→ [X](https://x.com/ChinaUncensored) | [YouTube](https://www.youtube.com/@ChinaUnscripted)
+
+**[Bari Weiss](https://x.com/bariweiss)**  
+Founder of *The Free Press*. Strong voice on culture, free speech, and journalism.  
+→ [X](https://x.com/bariweiss) | [YouTube](https://www.youtube.com/@thefreepress) | [The Free Press](https://www.thefp.com/)
+
+**[Lex Fridman](https://x.com/lexfridman)**  
+Long-form interviewer exploring science, technology, philosophy, and the human condition.  
+→ [X](https://x.com/lexfridman) | [YouTube](https://www.youtube.com/@lexfridman)
+
+**[John Spencer](https://x.com/SpencerGuard)**  
+Urban warfare expert at West Point. Host of *The Urban Warfare Project*.  
+→ [X](https://x.com/SpencerGuard) | [Podcast](https://pca.st/podcast/8bfe2910-0a72-0138-9f68-0acc26574db2)
+
+**[Walter Russell Mead](https://x.com/wrmead)**  
+Historian offering deep historical context on geopolitics and international affairs.  
+→ [X](https://x.com/wrmead) | [Podcast](https://pca.st/podcast/afaef4b0-fe30-013b-f55d-0acc26574db2)
+
+**[Sal Mercogliano](https://x.com/mercoglianos)**  
+Maritime historian and host of *What's Going on With Shipping?*.  
+→ [X](https://x.com/mercoglianos) | [YouTube](https://www.youtube.com/@wgowshipping)
+
+**[Peter Zeihan](https://x.com/PeterZeihan)**  
+Geopolitical strategist and best-selling author. Forecasts global trends using geography, demography, and energy.  
+Note: Peter has strong opinions on the Trump administration — take those with a grain of salt, but his analysis on other subjects is often excellent.  
+→ [X](https://x.com/PeterZeihan) | [YouTube](https://www.youtube.com/@ZeihanonGeopolitics)
+
+**[Preston Stewart](https://x.com/prestonstew_)**  
+West Point graduate, former U.S. Army Field Artillery officer, and Afghanistan combat veteran. Creates clear, well-researched content on modern military conflicts and weapons systems.  
+→ [YouTube](https://www.youtube.com/@PrestonStewart) | [X](https://x.com/prestonstew_)
+
+**[Michael Shellenberger](https://x.com/shellenberger)**  
+Investigative journalist, best-selling author, and founder of Public. Focuses on free speech, energy, environment, and the censorship-industrial complex.  
+→ [X](https://x.com/shellenberger) | [Public (Substack)](https://www.public.news/)
+
+---
+
+## Podcasts
+
+**Triggernometry**  
+https://pca.st/podcast/f2902cd0-2c84-0136-c266-7d73a919276a  
+The free speech YouTube show and podcast. We believe in open, fact-based discussion of important and sometimes controversial issues.  
+Konstantin Kisin and Francis Foster create fun-but-serious conversations with fascinating guests, including former Presidential advisors and political experts, leading economists, psychologists, journalists, social and cultural commentators, YouTubers and others.  
+We give our guests a chance to say what they think and explain why.
+
+**Acquired**  
+https://pca.st/podcast/eed80bc0-599b-0133-cb25-0d11918ab357  
+Acquired is a top-rated business and technology podcast hosted by Ben Gilbert and David Rosenthal. It provides definitive, long-form narrative deep dives into the history, strategy, and playbooks of the world’s greatest companies, functioning essentially as conversational audiobooks.
+
+**Arms Control Wonk**  
+https://pca.st/podcast/eed8f480-b393-0131-cde4-723c91aeae46  
+Dr. Jeffrey Lewis is an American academic, author, and globally recognized expert in nuclear nonproliferation who directs the East Asia Nonproliferation Program at the James Martin Center for Nonproliferation Studies and frequently utilizes open-source intelligence to monitor global weapons programs.
+
+**Call Me Back w/Dan Senor**  
+https://pca.st/podcast/d3ba2700-07dd-0139-41a2-0acc26574db2  
+Political and geopolitical analysis from the world's top experts, hosted by Dan Senor.
+
+**CAVASShips**  
+https://pca.st/podcast/d0186f00-b039-0139-c1a5-0acc26574db2  
+The CAVASShips Podcast is a weekly defense and maritime affairs program co-hosted by renowned naval journalist Christopher P. Cavas and naval strategist Chris Servello.
+
+**China Unscripted**  
+https://pca.st/podcast/71565c80-66e3-0136-4e65-69745d675bc7  
+The China Unscripted podcast is an off-the-cuff, conversational spin-off of the popular satirical YouTube show China Uncensored.
+
+**The Context**  
+https://pca.st/podcast/d1993100-9c24-013c-a002-0acc26574db2  
+Produced by the Kettering Foundation, this show explores the complex story of American democracy.
+
+**Goodfellows**  
+https://pca.st/podcast/820bd3a0-584c-0138-97be-0acc26574db2  
+Hosted and moderated by Hoover distinguished policy fellow Bill Whan.
+
+**Honestly**  
+https://pca.st/podcast/20be1c20-ab7c-0139-c184-0acc26574db2  
+Honestly with Bari Weiss is a weekly podcast that tackles the defining political, ethical, and cultural issues of our time.
+
+**Intelligence Squared**  
+https://pca.st/podcast/5bbc3e50-026e-0131-c9c5-723c91aeae46  
+The Intelligence Squared podcast is a globally renowned forum for lively debates and discussions with leading thinkers.
+
+**The Lex Fridman Podcast**  
+https://pca.st/podcast/78c58610-9061-0136-7b92-27f978dac4d  
+Long-form interview series hosted by Lex Fridman exploring science, technology, history, philosophy, and the human condition.
+
+**Midrats**  
+https://pca.st/podcast/db6b8e10-ed89-0130-4d3a-723c91aeae46  
+Weekly national security and military affairs podcast hosted by defense bloggers "CDR Salamander" and EagleOne.
+
+**Reaganism**  
+https://pca.st/podcast/4980f430-dd8a-0137-b6bf-0acc26574db2  
+Explores the enduring legacy of Ronald Reagan and contemporary issues through that lens.
+
+**Reasonable Doubt**  
+https://pca.st/podcast/d4eb3560-13d8-0133-246a-059c869cc4eb  
+Legal and true-crime podcast with criminal defense attorney Mark Geragos.
+
+**The Red Line**  
+https://pca.st/podcast/d0862520-dc5c-0137-b658-0acc26574db2  
+Deep-dive international relations show hosted by Michael Hilliard.
+
+**School of War**  
+https://pca.st/podcast/be6e9a40-1299-013a-d58f-0acc26574db2  
+Interview-driven show exploring military history, statecraft, and international relations.
+
+**Stop the World**  
+https://pca.st/podcast/6294c980-de0c-013c-5d10-0acc26574db2  
+Australian Strategic Policy Institute’s weekly podcast on international affairs, defense, technology, and security.
+
+**The Urban Warfare Project**  
+https://pca.st/podcast/8bfe2910-0a72-0138-9f68-0acc26574db2  
+Specialized military podcast on urban warfare hosted by John Spencer.
+
+**What Really Matters with Walter Russell Mead**  
+https://pca.st/podcast/afaef4b0-fe30-013b-f55d-0acc26574db2  
+Geopolitical and current affairs podcast featuring historian Walter Russell Mead.
+
+---
+
+## YouTube Channels
+
+- **[Triggernometry](https://www.youtube.com/@triggerpod)** — Konstantin Kisin & Francis Foster  
+  Free speech, culture, politics, and long-form conversations with fascinating guests.
+
+- **[Acquired](https://www.youtube.com/@AcquiredFM)** — Ben Gilbert & David Rosenthal  
+  In-depth business and technology history — widely considered one of the best in the genre.
+
+- **[Arms Control Wonk](https://www.youtube.com/@armscontrolwonk)** — Jeffrey Lewis  
+  Nuclear weapons, nonproliferation, and geopolitics using open-source intelligence.
+
+- **[Call Me Back Podcast](https://www.youtube.com/@CallMeBackPodcast)** — Dan Senor  
+  Geopolitical analysis with a focus on Israel, the Middle East, and global affairs.
+
+- **[China Unscripted](https://www.youtube.com/@ChinaUnscripted)** — Chris Chappell  
+  Candid, less-scripted conversations about Chinese politics, culture, and society.
+
+- **[The Free Press](https://www.youtube.com/@thefreepress)** — Bari Weiss  
+  Independent journalism covering culture, politics, and stories often ignored by mainstream media.
+
+- **[Intelligence Squared](https://www.youtube.com/@Intelligence-Squared)**  
+  High-level debates and discussions with leading thinkers on major global issues.
+
+- **[Lex Fridman](https://www.youtube.com/@lexfridman)** — Lex Fridman  
+  Long-form, deep conversations exploring science, technology, philosophy, and the human condition.
+
+- **[Preston Stewart](https://www.youtube.com/@PrestonStewart)** — Preston Stewart  
+  Clear, well-researched analysis of modern military conflicts, weapons systems, and defense topics.
+
+- **[Peter Zeihan](https://www.youtube.com/@ZeihanonGeopolitics)** — Peter Zeihan  
+  Geopolitical strategist and best-selling author. Clear, data-driven forecasts on global trends, geography, demography, and energy.
+
+- **[All Hands Magazine](https://www.youtube.com/@AllHandsMagazine)** — Midrats  
+  National security and military affairs podcast (video version).
+
+- **[Reagan Foundation](https://www.youtube.com/@ReaganFoundation)** — Reaganism  
+  Contemporary issues viewed through the lens of Ronald Reagan’s philosophy.
+
+- **[Reasonable Doubt Podcast](https://www.youtube.com/@ReasonableDoubtPodcast)** — Mark Geragos  
+  Legal analysis and true crime with one of America’s top criminal defense attorneys.
+
+- **[The Red Line Pod](https://www.youtube.com/@TheRedLinePod)** — Michael Hilliard  
+  International relations and geopolitical trends.
+
+- **[School of War Podcast](https://www.youtube.com/@SchoolofWarPodcast)** — Aaron MacLean  
+  Military history, statecraft, and great-power competition.
+
+- **[ASPI Canberra](https://www.youtube.com/@ASPICanberra)** — Stop the World  
+  International affairs, defense, technology, and security (Australian Strategic Policy Institute).
+
+- **[What's Going on With Shipping?](https://www.youtube.com/@wgowshipping)** — Sal Mercogliano  
+  Maritime industry, global shipping, logistics, and naval affairs.
+
+- **[Visegrad 24](https://www.youtube.com/@visegrad_24)** — Stefan Tompson  
+  News aggregator with a focus on Central/Eastern Europe and international events.
+
+- **[thatsKAIZEN](https://www.youtube.com/@thatsKAIZEN)** — Kaizen Asiedu  
+  Philosophy, culture, and commentary aimed at cutting through media bias.
+
+---
 
 ## X / Twitter Accounts
-- [Dr. Jeffrey Lewis](https://x.com/ArmsControlWonk) — Dr. Jeffrey Lewis is an American academic, author, and globally recognized expert in nuclear nonproliferation who directs the East Asia Nonproliferation Program at the James Martin Center for Nonproliferation Studies and frequently utilizes open-source intelligence to monitor global weapons programs.
 
-    John Lewis is the Distinguished Scholar of Global Security at 
-@middlebury
-, staff at 
-@fpri
- & 
-@JamesMartinCNS
-, host of the 
-@ACWpodcast
-, member 
-@theNASEM
- CISAC, ex-ISAB at 
-@StateDep
-Non-Governmental & Nonprofit Organization Carmel, CA. armscontrolwonk.com
-Joined March 2009. Warning, Jeffrey is very sarcastic, and that's not everyone's jam. Also he's not a big Trump fan.
-
-- [John Spencer](https://x.com/SpencerGuard) — War Scholar | Chair of War Studies Madison Policy Forum | Executive Director 
-@urbanwarfareins
- | UWP podcast | Thoughts/Posts my own RT/Quote/Like ≠ Official Gov
-
-  John Spencer is a retired U.S. Army major, combat veteran, and internationally recognized expert who serves as the chair of urban warfare studies at the Modern War Institute at West Point.
-
-- [Sal Mercogliano](https://x.com/mercoglianos) - Chair Dept of History, Crim Justice & Pol Science, Faculty Athletic Rep 
-@campbelledu
-, Maritime Historian, Mariner, Firefighter & What's Going On With Shipping?
-
-  Salvatore Mercogliano is an Associate Professor of History and the chair of the History, Criminal Justice, and Political Science Department at Campbell University in North Carolina. He holds a B.S. in Marine Transportation from SUNY Maritime College along with a merchant marine deck officer license.
-
-- [Ross Kennedy](https://x.com/maphumanintent) - Ross Kennedy is a global supply chain and logistics expert, geopolitical commentator, and founder of Fortis Analysis who provides sharp, often national security-focused insights into how international shipping networks and supply chains map to strategic human and national intents.
-
-- [John Konrad V](https://x.com/johnkonrad) - CEO @gCaptain | US Merchant Marine | Ship Captain | Pentagon Press | Author: Fire on the Horizon | Shipbuilder | Blacklisted by Wikipedia | K5HIP
-  
-   John Konrad V is a licensed Master Mariner and veteran offshore captain who founded gCaptain, the world's leading maritime news and professional networking platform.
-
-- [Peter Zeihan](https://x.com/PeterZeihan) - Geopolitical strategist, speaker, author.
-
-   Peter Zeihan is a geopolitical strategist, best-selling author, and founder of Zeihan on Geopolitics who forecasts global trends by combining the hard realities of geography, demography, and energy.
-
-   Note: Peter has a serious case of TDS, so take what he says about Trump and the current administration with a grain of salt. But overall, in other subjects, he gets a lot of things right.
-
-- [Walter Russell Mead](https://x.com/wrmead) - Scholar 
-@HudsonInstitute
-, professor 
-@UF
- and columnist 
-@WSJ
-. Latest book The Arc of a Covenant available for purchase using the link below.
-
-  Walter Russell Mead is a prominent American foreign policy scholar, author, and Wall Street Journal global view columnist who serves as a Distinguished Fellow at the Hudson Institute and a professor at Bard College.
-
-- [CDR Salamander](https://x.com/cdrsalamander) - Owner of the milblog CDR Salamander and co-host of the Midrats podcast (http://spreaker.com/show/midrats).
-  
-   CDR Salamander (often referred to as Sal) is the pseudonym of a retired U.S. Navy Commander who operates a widely read CDR Salamander | Substack blog dedicated to naval history, maritime strategy, and defense policy.
-
-- [Jennica Pounds](https://x.com/datarepublican) - I'm just a tool builder. • Elon Musk - “Worth following” • Charlie Kirk - “You're a must follow” • Contact: datarepublicanx@proton.me • Substack: datarepublican
-
-   Jennica Pounds is a Utah-based software engineer who gained prominence on X by utilizing artificial intelligence to track federal spending, visualize government grants, and guide Elon Musk's Department of Government Efficiency (DOGE).
-
-- [InfantryDort](https://x.com/infantrydort) - Just an Infantryman trying to close with and destroy. Motivated to make the U.S. Infantry lethal again. Active Duty LTC. 11M to 11B to 11A. Views are my own.
-  
-   @infantrydort of X is an active-duty U.S. military officer and prolific Substack Author who uses his InfantryDort X Profile to advocate for military reform, prioritize combat readiness, and champion warrior culture.
-
-- [Machina Labs](https://x.com/MachinaLabs_) - Unlocking Manufacturing through Robotics and Artificial Intelligence.
-  
-   Based in Los Angeles, Machina Labs is an advanced manufacturing company that combines artificial intelligence and robotics to create intelligent factories that can form and shape metal directly from digital designs without the need for traditional, part-specific tooling.
-
-- [Edward Mehr](https://x.com/@EdwardMehr) - Building high-mix high-volume future with robots and AI @machinalabs_
-  
-   Edward Mehr is an entrepreneur and engineer who co-founded and leads Machina Labs, a company that revolutionizes modern manufacturing by using Physical AI and autonomous robotics to transform raw metal into complex parts in days rather than months.
-
-- [Visegrád 24](https://x.com/visegrad24) - Curating news, politics and current affairs.
-  
-   Visegrád 24 is a popular, highly influential news aggregator account on X (formerly Twitter) founded by Stefan Tompson that curates and repacks global events with a pro-Western and conservative editorial spin.
-
-- [Harmeet Dhillon](https://x.com/DhilonX) - The frontline of the battle for civil liberties, election integrity, and constitutional law.
-  
-   Harmeet Dhillon is an American attorney and Republican Party leader who serves as the Assistant Attorney General for the Civil Rights Division at the U.S. Department of Justice.
-
-- [Bill Ackman](https://x.com/BillAckman) - CEO Pershing Square.
-  
-   Bill Ackman is an American billionaire hedge fund manager and the founder of Pershing Square Capital Management, who has also become a highly influential and outspoken voice on X by frequently sharing his perspectives on business, politics, and social issues with his massive following.
-
-- [Lex Fridman](https://x.com/lexfridman) - Host of Lex Fridman Podcast. Interested in robots and humans.
-  
-   Lex Fridman is a Russian-born American computer scientist, MIT researcher, and widely popular podcaster known for hosting long-form, deep-dive interviews with prominent figures across artificial intelligence, science, philosophy, and global culture.
-
-- [Robert Sterling](https://x.com/RobertMSterling) - Finance bro. American. Marine. Christian.
-  
-   Robert Sterling, active on X (formerly Twitter) as @RobertMSterling, is a corporate-finance professional, private equity/M&A consultant, and veteran who gained a broad following for sharing a mix of insightful business commentary, personal anecdotes, and viral, sometimes cynical observations about white-collar corporate culture.
-
-- [Mike Mazza](https://x.com/mike_mazza) - Mike Mazza is a political and cultural commentator on the social media platform X who is well-known for his provocative analysis on United States-Asia foreign policy.
-    
-- [Kaizen Asiedu](https://x.com/thatsKAIZEN) - Clear Thinker. Harvard ‘12, Emmy Winner. 
-  
-   Kaizen D. Asiedu (@thatsKAIZEN on X) is a Harvard-educated philosopher, Emmy Award-winning producer, and cultural commentator who creates content aimed at helping people cut through media bias and political manipulation.
-
-<!--
-
-## Online Magazines & Newsletters
-- **[Publication Name](link)** — What makes it worth reading.
-- **[Another Publication](link)** — Description.
-
-## Websites & Other Resources
-- **[Site Name](link)** — Short note.
-- **[Another Site](link)** — Description.
-
-## Books
-- **[Book Title](link)** by Author — Quick reason.
--->
+- **[Konstantin Kisin](https://x.com/KonstantinKisin)** — Co-host of Triggernometry. Sharp cultural and geopolitical commentary.
+- **[Francis Foster](https://x.com/francisjfoster)** — Co-host of Triggernometry. Thoughtful long-form discussions.
+- **[Jeffrey Lewis](https://x.com/ArmsControlWonk)** — Nuclear nonproliferation expert. Sarcastic but highly knowledgeable.
+- **[Dan Senor](https://x.com/dansenor)** — Host of Call Me Back. Strong geopolitical analysis.
+- **[Chris Chappell](https://x.com/ChinaUncensored)** — Host of China Unscripted. China-focused commentary.
+- **[Bari Weiss](https://x.com/bariweiss)** — Founder of The Free Press. Independent journalism and cultural critique.
+- **[Lex Fridman](https://x.com/lexfridman)** — Host of the Lex Fridman Podcast. Deep interviews across many fields.
+- **[John Spencer](https://x.com/SpencerGuard)** — Urban warfare expert at West Point.
+- **[Walter Russell Mead](https://x.com/wrmead)** — Historian and foreign policy scholar.
+- **[Sal Mercogliano](https://x.com/mercoglianos)** — Maritime historian and shipping expert.
+- **[Peter Zeihan](https://x.com/PeterZeihan)** — Geopolitical forecaster. Strong opinions on the Trump administration — take with a grain of salt.
+- **[Bill Ackman](https://x.com/BillAckman)** — Hedge fund manager and activist investor.
+- **[Harmeet Dhillon](https://x.com/HarmeetKDhillon)** — Attorney and Republican political figure.
+- **[Visegrad 24](https://x.com/visegrad24)** — News aggregator focused on Europe and global events.
+- **[DataRepublican](https://x.com/DataRepublican)** — Jennica Pounds — Tracks federal spending and government data.
+- **[InfantryDort](https://x.com/infantrydort)** — Active duty Army officer focused on military reform.
+- **[Edward Mehr](https://x.com/EdwardMehr)** — Entrepreneur and manufacturing innovator.
+- **[Robert Sterling](https://x.com/RobertMSterling)** — Corporate finance and business commentator.
+- **[Mike Mazza](https://x.com/mike_mazza)** — U.S.-Asia policy and political commentator.
+- **[Kaizen Asiedu](https://x.com/thatsKAIZEN)** — Philosopher and cultural commentator.
+- **[Preston Stewart](https://x.com/prestonstew_)** — Military analysis and modern warfare commentary.
+- **[Michael Shellenberger](https://x.com/shellenberger)**  
+  Investigative journalist, author, and founder of Public. Focuses on free speech, energy, environment, and the censorship-industrial complex.
 
 ---
 
-**How to use this list:**  
-Everything here is stuff I’ve personally vetted and enjoy. I’ll keep this page updated regularly.
+## Substack
+
+- **[Public](https://www.public.news/)** — Michael Shellenberger  
+  Major independent publication focused on free speech, civilization, energy, environment, cities, mental health, addiction, and the censorship-industrial complex. Hundreds of thousands of subscribers with a mix of free and paid content.
+
+- **[John Spencer - Urban Warfare](https://spencerguard.substack.com/)** — John Spencer  
+  Writing and analysis on urban warfare, modern conflict, and military strategy from the Executive Director of the Urban Warfare Institute.
+
+- **[Lex Fridman](https://lexfridman.substack.com/)** — Lex Fridman  
+  Occasional writing and updates from the host of the Lex Fridman Podcast, focused on science, technology, philosophy, and long-form ideas.
+
+---
+
+## Publications & Newsletters
+
+- **[The Free Press](https://www.thefp.com/)** — Bari Weiss  
+  Independent media outlet founded by Bari Weiss. Focuses on in-depth journalism, essays, and investigations that often challenge mainstream narratives on culture, politics, technology, and free speech.
+
+- **[gCaptain](https://gcaptain.com/)** — John Konrad V  
+  The leading online news platform and professional network for the global maritime industry. Provides timely news, analysis, and commentary on shipping, offshore energy, maritime security, and naval affairs.
 
 ---
 
