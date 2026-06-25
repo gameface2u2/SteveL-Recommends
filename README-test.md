@@ -206,7 +206,27 @@ Geopolitical and current affairs podcast featuring historian and author Walter R
 
 ## X / Twitter Accounts
 
-*(Full list from your spreadsheet)*
+- **[Konstantin Kisin](https://x.com/KonstantinKisin)** — Co-host of Triggernometry. Sharp cultural and geopolitical commentary.
+- **[Francis Foster](https://x.com/francisjfoster)** — Co-host of Triggernometry. Thoughtful long-form discussions.
+- **[Jeffrey Lewis](https://x.com/ArmsControlWonk)** — Nuclear nonproliferation expert. Sarcastic but highly knowledgeable.
+- **[Dan Senor](https://x.com/dansenor)** — Host of Call Me Back. Strong geopolitical analysis.
+- **[Chris Chappell](https://x.com/ChinaUncensored)** — Host of China Unscripted. China-focused commentary.
+- **[Bari Weiss](https://x.com/bariweiss)** — Founder of The Free Press. Independent journalism and cultural critique.
+- **[Lex Fridman](https://x.com/lexfridman)** — Host of the Lex Fridman Podcast. Deep interviews across many fields.
+- **[John Spencer](https://x.com/SpencerGuard)** — Urban warfare expert at West Point.
+- **[Walter Russell Mead](https://x.com/wrmead)** — Historian and foreign policy scholar.
+- **[Sal Mercogliano](https://x.com/mercoglianos)** — Maritime historian and shipping expert.
+- **[Peter Zeihan](https://x.com/PeterZeihan)** — Geopolitical forecaster. Strong opinions on the Trump administration — take with a grain of salt.
+- **[Bill Ackman](https://x.com/BillAckman)** — Hedge fund manager and activist investor.
+- **[Harmeet Dhillon](https://x.com/HarmeetKDhillon)** — Attorney and Republican political figure.
+- **[Visegrad 24](https://x.com/visegrad24)** — News aggregator focused on Europe and global events.
+- **[DataRepublican](https://x.com/DataRepublican)** — Jennica Pounds — Tracks federal spending and government data.
+- **[InfantryDort](https://x.com/infantrydort)** — Active duty Army officer focused on military reform.
+- **[Edward Mehr](https://x.com/EdwardMehr)** — Entrepreneur and manufacturing innovator.
+- **[Robert Sterling](https://x.com/RobertMSterling)** — Corporate finance and business commentator.
+- **[Mike Mazza](https://x.com/mike_mazza)** — U.S.-Asia policy and political commentator.
+- **[Kaizen Asiedu](https://x.com/thatsKAIZEN)** — Philosopher and cultural commentator.
+
 
 ---
 
