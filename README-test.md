@@ -60,7 +60,7 @@ Maritime historian and host of *What's Going on With Shipping?*.
 **[Peter Zeihan](https://x.com/PeterZeihan)**  
 Geopolitical strategist and best-selling author. Forecasts global trends using geography, demography, and energy.  
 Note: Peter has strong opinions on the Trump administration — take those with a grain of salt, but his analysis on other subjects is often excellent.  
-→ [X](https://x.com/PeterZeihan)
+→ [X](https://x.com/PeterZeihan) | [YouTube](https://www.youtube.com/@ZeihanonGeopolitics)
 
 **[Preston Stewart](https://x.com/prestonstew_)**  
 West Point graduate, former U.S. Army Field Artillery officer, and Afghanistan combat veteran. Creates clear, well-researched content on modern military conflicts and weapons systems.  
@@ -167,6 +167,9 @@ Geopolitical and current affairs podcast featuring historian and author Walter R
 
 - **[Call Me Back Podcast](https://www.youtube.com/@CallMeBackPodcast)** — Dan Senor  
   Geopolitical analysis with a focus on Israel, the Middle East, and global affairs.
+
+- **[Peter Zeihan](https://www.youtube.com/@ZeihanonGeopolitics)** — Peter Zeihan  
+  Geopolitical strategist and best-selling author. Clear, data-driven forecasts on global trends, geography, demography, and energy.
 
 - **[China Unscripted](https://www.youtube.com/@ChinaUnscripted)** — Chris Chappell  
   Candid, less-scripted conversations about Chinese politics, culture, and society.
