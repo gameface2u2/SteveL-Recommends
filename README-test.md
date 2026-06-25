@@ -229,6 +229,7 @@ Geopolitical and current affairs podcast featuring historian and author Walter R
 - **[Peter Zeihan](https://x.com/PeterZeihan)** — Geopolitical forecaster. Strong opinions on the Trump administration — take with a grain of salt.
 - **[Bill Ackman](https://x.com/BillAckman)** — Hedge fund manager and activist investor.
 - **[Harmeet Dhillon](https://x.com/HarmeetKDhillon)** — Attorney and Republican political figure.
+**[Michael Shellenberger](https://x.com/shellenberger)** — Investigative journalist, author, and founder of Public. Focuses on free speech, energy, environment, and the censorship-industrial complex.
 - **[Visegrad 24](https://x.com/visegrad24)** — News aggregator focused on Europe and global events.
 - **[DataRepublican](https://x.com/DataRepublican)** — Jennica Pounds — Tracks federal spending and government data.
 - **[InfantryDort](https://x.com/infantrydort)** — Active duty Army officer focused on military reform.
