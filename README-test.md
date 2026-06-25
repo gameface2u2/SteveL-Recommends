@@ -173,14 +173,33 @@ Geopolitical and current affairs podcast featuring historian and author Walter R
 - **[Lex Fridman](https://www.youtube.com/@lexfridman)** — Lex Fridman  
   Long-form, deep conversations exploring science, technology, philosophy, and the human condition.
 
+- **[All Hands Magazine](https://www.youtube.com/@AllHandsMagazine)** — Midrats  
+  National security and military affairs podcast (video version).
+
+- **[Reagan Foundation](https://www.youtube.com/@ReaganFoundation)** — Reaganism  
+  Contemporary issues viewed through the lens of Ronald Reagan’s philosophy.
+
+- **[Reasonable Doubt Podcast](https://www.youtube.com/@ReasonableDoubtPodcast)** — Mark Geragos  
+  Legal analysis and true crime with one of America’s top criminal defense attorneys.
+
+- **[The Red Line Pod](https://www.youtube.com/@TheRedLinePod)** — Michael Hilliard  
+  International relations and geopolitical trends.
+
+- **[School of War Podcast](https://www.youtube.com/@SchoolofWarPodcast)** — Aaron MacLean  
+  Military history, statecraft, and great-power competition.
+
+- **[ASPI Canberra](https://www.youtube.com/@ASPICanberra)** — Stop the World  
+  International affairs, defense, technology, and security (Australian Strategic Policy Institute).
+
 - **[What's Going on With Shipping?](https://www.youtube.com/@wgowshipping)** — Sal Mercogliano  
   Maritime industry, global shipping, logistics, and naval affairs.
 
-- **[Visegrad 24](https://www.youtube.com/@visegrad_24)**  
+- **[Visegrad 24](https://www.youtube.com/@visegrad_24)** — Stefan Tompson  
   News aggregator with a focus on Central/Eastern Europe and international events.
 
 - **[thatsKAIZEN](https://www.youtube.com/@thatsKAIZEN)** — Kaizen Asiedu  
   Philosophy, culture, and commentary aimed at cutting through media bias.
+
 
 
 ---
