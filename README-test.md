@@ -64,7 +64,7 @@ Note: Peter has strong opinions on the Trump administration — take those with 
 
 **[Preston Stewart](https://x.com/prestonstew_)**  
 West Point graduate, former U.S. Army Field Artillery officer, and Afghanistan combat veteran. Creates clear, well-researched content on modern military conflicts and weapons systems.  
-→ [YouTube](https://www.youtube.com/@PrestonStewart) | [X](https://x.com/prestonstew_)
+→ [X](https://x.com/prestonstew_) | [YouTube](https://www.youtube.com/@PrestonStewart)
 
 **[Michael Shellenberger](https://x.com/shellenberger)**  
 Investigative journalist, best-selling author, and founder of Public. Focuses on free speech, energy, environment, and the censorship-industrial complex.  
