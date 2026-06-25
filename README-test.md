@@ -63,9 +63,8 @@ Political and cultural commentator focused on U.S.-Asia foreign policy.
 **[Kaizen Asiedu](https://x.com/thatsKAIZEN)**  
 Harvard-educated philosopher, Emmy Award-winning producer, and cultural commentator. Creates content aimed at cutting through media bias and political manipulation.
 
-**Preston Stewart**  
-West Point graduate, former U.S. Army Field Artillery officer, and Afghanistan combat veteran. Creates clear, well-researched YouTube videos and content explaining modern military conflicts, weapons systems, national security, and geopolitics.  
-→ [YouTube](https://www.youtube.com/@PrestonStewart) | [X](https://x.com/prestonstew_)
+**[Preston Stewart](https://x.com/prestonstew_)**  
+West Point graduate, former U.S. Army Field Artillery officer, and Afghanistan combat veteran. Creates clear, well-researched YouTube videos and content explaining modern military conflicts, weapons systems, national security, and geopolitics.
 
 ---
 
