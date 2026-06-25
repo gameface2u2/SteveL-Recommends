@@ -67,7 +67,83 @@ Harvard-educated philosopher, Emmy Award-winning producer, and cultural commenta
 
 ## Podcasts
 
-*(Full list coming next — let me know if you want me to expand this section with all the descriptions from your Word doc)*
+**Triggernometry**  
+https://pca.st/podcast/f2902cd0-2c84-0136-c266-7d73a919276a  
+The free speech YouTube show and podcast. We believe in open, fact-based discussion of important and sometimes controversial issues.  
+Konstantin Kisin and Francis Foster create fun-but-serious conversations with fascinating guests, including former Presidential advisors and political experts, leading economists, psychologists, journalists, social and cultural commentators, YouTubers and others.  
+We give our guests a chance to say what they think and explain why.
+
+**Acquired**  
+https://pca.st/podcast/eed80bc0-599b-0133-cb25-0d11918ab357  
+Acquired is a top-rated business and technology podcast hosted by Ben Gilbert and David Rosenthal. It provides definitive, long-form narrative deep dives into the history, strategy, and playbooks of the world’s greatest companies, functioning essentially as conversational audiobooks.
+
+**Arms Control Wonk**  
+https://pca.st/podcast/eed8f480-b393-0131-cde4-723c91aeae46  
+Dr. Jeffrey Lewis is an American academic, author, and globally recognized expert in nuclear nonproliferation who directs the East Asia Nonproliferation Program at the James Martin Center for Nonproliferation Studies and frequently utilizes open-source intelligence to monitor global weapons programs.
+
+**Call Me Back w/Dan Senor**  
+https://pca.st/podcast/d3ba2700-07dd-0139-41a2-0acc26574db2  
+Political and geopolitical analysis from the world's top experts, hosted by Dan Senor.
+
+**CAVASShips**  
+https://pca.st/podcast/d0186f00-b039-0139-c1a5-0acc26574db2  
+The CAVASShips Podcast is a weekly defense and maritime affairs program co-hosted by renowned naval journalist Christopher P. Cavas and naval strategist Chris Servello.
+
+**China Unscripted**  
+https://pca.st/podcast/71565c80-66e3-0136-4e65-69745d675bc7  
+The China Unscripted podcast is an off-the-cuff, conversational spin-off of the popular satirical YouTube show China Uncensored.
+
+**The Context**  
+https://pca.st/podcast/d1993100-9c24-013c-a002-0acc26574db2  
+Produced by the Kettering Foundation, this show explores the complex story of American democracy—its history, current trends, and the ideas shaping society.
+
+**Goodfellows**  
+https://pca.st/podcast/820bd3a0-584c-0138-97be-0acc26574db2  
+Hosted and moderated by Hoover distinguished policy fellow Bill Whan.
+
+**Honestly**  
+https://pca.st/podcast/20be1c20-ab7c-0139-c184-0acc26574db2  
+Honestly with Bari Weiss is a weekly podcast that tackles the defining political, ethical, and cultural issues of our time.
+
+**Intelligence Squared**  
+https://pca.st/podcast/5bbc3e50-026e-0131-c9c5-723c91aeae46  
+The Intelligence Squared podcast is a globally renowned forum for lively debates, deep-dive discussions, and interviews with leading thinkers.
+
+**The Lex Fridman Podcast**  
+https://pca.st/podcast/78c58610-9061-0136-7b92-27f978dac4d  
+The Lex Fridman Podcast is a popular, long-form interview series hosted by Lex Fridman.
+
+**Midrats**  
+https://pca.st/podcast/db6b8e10-ed89-0130-4d3a-723c91aeae46  
+Midrats is a weekly national security and military affairs podcast hosted by defense bloggers "CDR Salamander" and EagleOne.
+
+**Reaganism**  
+https://pca.st/podcast/4980f430-dd8a-0137-b6bf-0acc26574db2  
+The Reaganism Podcast explores the enduring legacy of the 40th U.S. President Ronald Reagan.
+
+**Reasonable Doubt**  
+https://pca.st/podcast/d4eb3560-13d8-0133-246a-059c869cc4eb  
+Reasonable Doubt is a prominent legal and true-crime podcast where world-renowned criminal defense attorney Mark Geragos and rotating co-hosts break down the nation's highest-profile legal cases.
+
+**The Red Line**  
+https://pca.st/podcast/d0862520-dc5c-0137-b658-0acc26574db2  
+The Red Line Podcast is a deep-dive international relations show hosted by Michael Hilliard.
+
+**School of War**  
+https://pca.st/podcast/be6e9a40-1299-013a-d58f-0acc26574db2  
+The School of War podcast is a weekly interview-driven show that explores military history, statecraft, and international relations.
+
+**Stop the World**  
+https://pca.st/podcast/6294c980-de0c-013c-5d10-0acc26574db2  
+Stop the World is the Australian Strategic Policy Institute's (ASPI) weekly podcast on international affairs, defense, technology, and security.
+
+**The Urban Warfare Project**  
+https://pca.st/podcast/8bfe2910-0a72-0138-9f68-0acc26574db2  
+A specialized military podcast produced by the Modern War Institute at West Point, hosted by leading urban warfare expert John Spencer.
+
+**What Really Matters with Walter Russell Mead**  
+https://pca.st/podcast/afaef4b0-fe30-013b-f55d-0acc26574db2  
+Geopolitical and current affairs podcast featuring historian and author Walter Russell Mead.
 
 ---
 
