@@ -9,7 +9,7 @@ Curated list of people, podcasts, YouTube channels, writers, and publications I 
 ## Key People & Thinkers
 
 **[Dr. Jeffrey Lewis](https://x.com/ArmsControlWonk)**  
-Dr. Jeffrey Lewis is an American academic, author, and globally recognized expert in nuclear nonproliferation who directs the East Asia Nonproliferation Program at the James Martin Center for Nonproliferation Studies and frequently utilizes open-source intelligence to monitor global weapons programs. He is the Distinguished Scholar of Global Security at Middlebury, staff at FPRI & James Martin CNS, host of the Arms Control Wonk podcast, member of the NASEM CISAC, and former ISAB at the State Department.
+Dr. Jeffrey Lewis is an American academic, author, and globally recognized expert in nuclear nonproliferation who directs the East Asia Nonproliferation Program at the James Martin Center for Nonproliferation Studies and frequently utilizes open-source intelligence to monitor global weapons programs. He is the Distinguished Scholar of Global Security at Middlebury, staff at FPRI & James Martin CNS, host of the Arms Control Wonk podcast, member of the NASEM CISAC, and former ISAB at the State Department. Warning, Jeffrey is very sarcastic, and that's not everyone's jam. Also he's not a big Trump fan.
 
 **[John Spencer](https://x.com/SpencerGuard)**  
 War Scholar | Chair of War Studies at Madison Policy Forum | Executive Director of Urban Warfare Institute | Host of The Urban Warfare Project podcast. John Spencer is a retired U.S. Army major, combat veteran, and internationally recognized expert who serves as the chair of urban warfare studies at the Modern War Institute at West Point.
@@ -25,7 +25,7 @@ Global supply chain and logistics expert, geopolitical commentator, and founder 
 CEO of gCaptain | US Merchant Marine | Ship Captain | Pentagon Press | Author of *Fire on the Horizon* | Shipbuilder. John Konrad V is a licensed Master Mariner and veteran offshore captain who founded gCaptain, the world's leading maritime news and professional networking platform.
 
 **[Peter Zeihan](https://x.com/PeterZeihan)**  
-Geopolitical strategist, speaker, and best-selling author. Founder of Zeihan on Geopolitics. Forecasts global trends by combining the hard realities of geography, demography, and energy. (Note: Peter has strong opinions on current politics — take those with a grain of salt, but his analysis on other subjects is often excellent.)
+Geopolitical strategist, speaker, and best-selling author. Founder of Zeihan on Geopolitics. Forecasts global trends by combining the hard realities of geography, demography, and energy. (Note: Peter has strong opinions on the current Trump administration — take those with a grain of salt, but his analysis on other subjects is often excellent.)
 
 **[Walter Russell Mead](https://x.com/wrmead)**  
 Scholar at Hudson Institute, professor at Bard College, and columnist at *The Wall Street Journal*. Prominent American foreign policy scholar and author.
