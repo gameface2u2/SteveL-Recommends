@@ -22,7 +22,7 @@ Hosts of *Acquired* — one of the best business and technology history podcasts
 
 **[Jeffrey Lewis](https://x.com/ArmsControlWonk)**  
 Nuclear nonproliferation expert and host of *Arms Control Wonk*. Uses open-source intelligence.  
-**Warning, Jeffrey is very sarcastic, and that's not everyone's jam. Also he's not a big Trump fan.**  
+Warning, Jeffrey is very sarcastic, and that's not everyone's jam. Also he's not a big Trump fan.  
 → [X](https://x.com/ArmsControlWonk) | [YouTube](https://www.youtube.com/@armscontrolwonk) | [Podcast](https://pca.st/podcast/eed8f480-b393-0131-cde4-723c91aeae46)
 
 **[Dan Senor](https://x.com/dansenor)**  
@@ -59,7 +59,7 @@ Maritime historian and host of *What's Going on With Shipping?*.
 
 **[Peter Zeihan](https://x.com/PeterZeihan)**  
 Geopolitical strategist and best-selling author. Forecasts global trends using geography, demography, and energy.  
-**Note: Peter has strong opinions on the Trump administration — take those with a grain of salt, but his analysis on other subjects is often excellent.**  
+Note: Peter has strong opinions on the Trump administration — take those with a grain of salt, but his analysis on other subjects is often excellent.  
 → [X](https://x.com/PeterZeihan)
 
 **[Preston Stewart](https://x.com/prestonstew_)**  
