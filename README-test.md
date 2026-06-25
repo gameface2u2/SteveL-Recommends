@@ -149,7 +149,23 @@ Geopolitical and current affairs podcast featuring historian and author Walter R
 
 ## YouTube Channels
 
-*(Full list from your spreadsheet)*
+- [Triggernometry](https://www.youtube.com/@triggerpod) — Konstantin Kisin & Francis Foster
+- [Acquired](https://www.youtube.com/@AcquiredFM) — Ben Gilbert & David Rosenthal
+- [Arms Control Wonk](https://www.youtube.com/@armscontrolwonk) — Jeffrey Lewis
+- [Call Me Back Podcast](https://www.youtube.com/@CallMeBackPodcast) — Dan Senor
+- [China Unscripted](https://www.youtube.com/@ChinaUnscripted) — Chris Chappell
+- [The Free Press](https://www.youtube.com/@thefreepress) — Bari Weiss
+- [Intelligence Squared](https://www.youtube.com/@Intelligence-Squared)
+- [Lex Fridman](https://www.youtube.com/@lexfridman) — Lex Fridman
+- [All Hands Magazine](https://www.youtube.com/@AllHandsMagazine) — Midrats
+- [Reagan Foundation](https://www.youtube.com/@ReaganFoundation) — Roger Zakheim
+- [Reasonable Doubt Podcast](https://www.youtube.com/@ReasonableDoubtPodcast) — Mark Geragos
+- [The Red Line Pod](https://www.youtube.com/@TheRedLinePod) — Michael Hilliard
+- [School of War Podcast](https://www.youtube.com/@SchoolofWarPodcast) — Aaron MacLean
+- [ASPI Canberra](https://www.youtube.com/@ASPICanberra) — Stop the World
+- [What's Going on With Shipping?](https://www.youtube.com/@wgowshipping) — Sal Mercogliano
+- [Visegrad 24](https://www.youtube.com/@visegrad_24) — Stefan Tompson
+- [thatsKAIZEN](https://www.youtube.com/@thatsKAIZEN) — Kaizen Asiedu
 
 ---
 
