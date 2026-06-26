@@ -80,6 +80,9 @@ The free speech YouTube show and podcast. We believe in open, fact-based discuss
 Konstantin Kisin and Francis Foster create fun-but-serious conversations with fascinating guests, including former Presidential advisors and political experts, leading economists, psychologists, journalists, social and cultural commentators, YouTubers and others.  
 We give our guests a chance to say what they think and explain why.
 
+[🎙️ Apple Podcasts](https://podcasts.apple.com/us/podcast/triggernometry/id1484627750)  
+[PCA / Other](https://pca.st/podcast/f2902cd0-2c84-0136-c266-7d73a919276a)
+
 **Acquired**  
 https://pca.st/podcast/eed80bc0-599b-0133-cb25-0d11918ab357  
 Acquired is a top-rated business and technology podcast hosted by Ben Gilbert and David Rosenthal. It provides definitive, long-form narrative deep dives into the history, strategy, and playbooks of the world’s greatest companies, functioning essentially as conversational audiobooks.
