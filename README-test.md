@@ -80,6 +80,7 @@ The free speech YouTube show and podcast. We believe in open, fact-based discuss
 Konstantin Kisin and Francis Foster create fun-but-serious conversations with fascinating guests, including former Presidential advisors and political experts, leading economists, psychologists, journalists, social and cultural commentators, YouTubers and others.  
 We give our guests a chance to say what they think and explain why.
 
+![Apple Podcasts](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Apple_Podcasts_logo.svg/512px-Apple_Podcasts_logo.svg.png)
 [🎙️ Apple Podcasts](https://podcasts.apple.com/us/podcast/triggernometry/id1484627750)  
 [PCA / Other](https://pca.st/podcast/f2902cd0-2c84-0136-c266-7d73a919276a)
 
