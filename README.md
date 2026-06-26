@@ -118,7 +118,7 @@ The Intelligence Squared podcast is a globally renowned forum for lively debates
 
 **The Lex Fridman Podcast** 
 Long-form interview series hosted by Lex Fridman exploring science, technology, history, philosophy, and the human condition.  
-[Apple Podcasts](https://podcasts.apple.com/us/podcast/lex-fridman-podcast/id1434243584) • [All Other Podcasts](https://pca.st/podcast/78c58610-9061-0136-7b92-27f978dac4d)
+[Apple Podcasts](https://podcasts.apple.com/us/podcast/lex-fridman-podcast/id1434243584) • [All Other Podcasts](https://pca.st/podcast/78c58610-9061-0136-7b92-27f978dac4db)
 
 **Midrats**  
 Weekly national security and military affairs podcast hosted by defense bloggers "CDR Salamander" and EagleOne.  
