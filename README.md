@@ -116,7 +116,7 @@ Honestly with Bari Weiss is a weekly podcast that tackles the defining political
 The Intelligence Squared podcast is a globally renowned forum for lively debates and discussions with leading thinkers.  
 [Apple Podcasts](https://podcasts.apple.com/us/podcast/intelligence-squared/id1099899295) • [All Other Podcasts](https://pca.st/podcast/5bbc3e50-026e-0131-c9c5-723c91aeae46)
 
-**The Lex Fridman Podcast** 
+**The Lex Fridman Podcast**  
 Long-form interview series hosted by Lex Fridman exploring science, technology, history, philosophy, and the human condition.  
 [Apple Podcasts](https://podcasts.apple.com/us/podcast/lex-fridman-podcast/id1434243584) • [All Other Podcasts](https://pca.st/podcast/78c58610-9061-0136-7b92-27f978dac4db)
 
