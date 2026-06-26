@@ -75,119 +75,82 @@ Investigative journalist, best-selling author, and founder of Public. Focuses on
 ## Podcasts
 
 **Triggernometry**  
-https://pca.st/podcast/f2902cd0-2c84-0136-c266-7d73a919276a  
 The free speech YouTube show and podcast. We believe in open, fact-based discussion of important and sometimes controversial issues.  
 Konstantin Kisin and Francis Foster create fun-but-serious conversations with fascinating guests, including former Presidential advisors and political experts, leading economists, psychologists, journalists, social and cultural commentators, YouTubers and others.  
-We give our guests a chance to say what they think and explain why.
-
-![Apple Podcasts](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Apple_Podcasts_logo.svg/512px-Apple_Podcasts_logo.svg.png)
-[🎙️ Apple Podcasts](https://podcasts.apple.com/us/podcast/triggernometry/id1484627750)  
-[PCA / Other](https://pca.st/podcast/f2902cd0-2c84-0136-c266-7d73a919276a)
-[![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Apple_Podcasts_logo.svg/64px-Apple_Podcasts_logo.svg.png)](https://podcasts.apple.com/...)
-
-## Podcasts
-
-**Triggernometry**  
-[Apple Podcasts](https://podcasts.apple.com/us/podcast/triggernometry/id1375568988)  
-[All Other Podcasts](https://pca.st/podcast/f2902cd0-2c84-0136-c266-7d73a919276a)  
-The free speech YouTube show and podcast. We believe in open, fact-based discussion of important and sometimes controversial issues.  
-Konstantin Kisin and Francis Foster create fun-but-serious conversations with fascinating guests, including former Presidential advisors and political experts, leading economists, psychologists, journalists, social and cultural commentators, YouTubers and others.  
-We give our guests a chance to say what they think and explain why.
+We give our guests a chance to say what they think and explain why.  
+[Apple Podcasts](https://podcasts.apple.com/us/podcast/triggernometry/id1375568988) • [All Other Podcasts](https://pca.st/podcast/f2902cd0-2c84-0136-c266-7d73a919276a)
 
 **Acquired**  
-[Apple Podcasts](https://podcasts.apple.com/us/podcast/acquired/id1050462261)  
-[All Other Podcasts](https://pca.st/podcast/eed80bc0-599b-0133-cb25-0d11918ab357)  
-Acquired is a top-rated business and technology podcast hosted by Ben Gilbert and David Rosenthal. It provides definitive, long-form narrative deep dives into the history, strategy, and playbooks of the world’s greatest companies, functioning essentially as conversational audiobooks.
+Acquired is a top-rated business and technology podcast hosted by Ben Gilbert and David Rosenthal. It provides definitive, long-form narrative deep dives into the history, strategy, and playbooks of the world’s greatest companies, functioning essentially as conversational audiobooks.  
+[Apple Podcasts](https://podcasts.apple.com/us/podcast/acquired/id1050462261) • [All Other Podcasts](https://pca.st/podcast/eed80bc0-599b-0133-cb25-0d11918ab357)
 
 **Arms Control Wonk**  
-[Apple Podcasts](https://podcasts.apple.com/us/podcast/arms-control-wonk/id1377951385)  
-[All Other Podcasts](https://pca.st/podcast/eed8f480-b393-0131-cde4-723c91aeae46)  
-Dr. Jeffrey Lewis is an American academic, author, and globally recognized expert in nuclear nonproliferation who directs the East Asia Nonproliferation Program at the James Martin Center for Nonproliferation Studies and frequently utilizes open-source intelligence to monitor global weapons programs.
+Dr. Jeffrey Lewis is an American academic, author, and globally recognized expert in nuclear nonproliferation who directs the East Asia Nonproliferation Program at the James Martin Center for Nonproliferation Studies and frequently utilizes open-source intelligence to monitor global weapons programs.  
+[Apple Podcasts](https://podcasts.apple.com/us/podcast/arms-control-wonk/id1377951385) • [All Other Podcasts](https://pca.st/podcast/eed8f480-b393-0131-cde4-723c91aeae46)
 
 **Call Me Back w/Dan Senor**  
-[Apple Podcasts](https://podcasts.apple.com/us/podcast/call-me-back-w-dan-senor/id1441138065)  
-[All Other Podcasts](https://pca.st/podcast/d3ba2700-07dd-0139-41a2-0acc26574db2)  
-Political and geopolitical analysis from the world's top experts, hosted by Dan Senor.
+Political and geopolitical analysis from the world's top experts, hosted by Dan Senor.  
+[Apple Podcasts](https://podcasts.apple.com/us/podcast/call-me-back-w-dan-senor/id1441138065) • [All Other Podcasts](https://pca.st/podcast/d3ba2700-07dd-0139-41a2-0acc26574db2)
 
 **CAVASShips**  
-[Apple Podcasts](https://podcasts.apple.com/us/podcast/cavasships/id1544252802)  
-[All Other Podcasts](https://pca.st/podcast/d0186f00-b039-0139-c1a5-0acc26574db2)  
-The CAVASShips Podcast is a weekly defense and maritime affairs program co-hosted by renowned naval journalist Christopher P. Cavas and naval strategist Chris Servello.
-
-*(I can continue with the rest of the podcasts if you like — just say the word and I’ll give you the complete section with all entries updated.)*
-...
-
-**Acquired**  
-https://pca.st/podcast/eed80bc0-599b-0133-cb25-0d11918ab357  
-Acquired is a top-rated business and technology podcast hosted by Ben Gilbert and David Rosenthal. It provides definitive, long-form narrative deep dives into the history, strategy, and playbooks of the world’s greatest companies, functioning essentially as conversational audiobooks.
-
-**Arms Control Wonk**  
-https://pca.st/podcast/eed8f480-b393-0131-cde4-723c91aeae46  
-Dr. Jeffrey Lewis is an American academic, author, and globally recognized expert in nuclear nonproliferation who directs the East Asia Nonproliferation Program at the James Martin Center for Nonproliferation Studies and frequently utilizes open-source intelligence to monitor global weapons programs.
-
-**Call Me Back w/Dan Senor**  
-https://pca.st/podcast/d3ba2700-07dd-0139-41a2-0acc26574db2  
-Political and geopolitical analysis from the world's top experts, hosted by Dan Senor.
-
-**CAVASShips**  
-https://pca.st/podcast/d0186f00-b039-0139-c1a5-0acc26574db2  
-The CAVASShips Podcast is a weekly defense and maritime affairs program co-hosted by renowned naval journalist Christopher P. Cavas and naval strategist Chris Servello.
+The CAVASShips Podcast is a weekly defense and maritime affairs program co-hosted by renowned naval journalist Christopher P. Cavas and naval strategist Chris Servello.  
+[Apple Podcasts](https://podcasts.apple.com/us/podcast/cavasships/id1544252802) • [All Other Podcasts](https://pca.st/podcast/d0186f00-b039-0139-c1a5-0acc26574db2)
 
 **China Unscripted**  
-https://pca.st/podcast/71565c80-66e3-0136-4e65-69745d675bc7  
-The China Unscripted podcast is an off-the-cuff, conversational spin-off of the popular satirical YouTube show China Uncensored.
+The China Unscripted podcast is an off-the-cuff, conversational spin-off of the popular satirical YouTube show China Uncensored.  
+[Apple Podcasts](https://podcasts.apple.com/us/podcast/china-unscripted/id1484627750) • [All Other Podcasts](https://pca.st/podcast/71565c80-66e3-0136-4e65-69745d675bc7)
 
 **The Context**  
-https://pca.st/podcast/d1993100-9c24-013c-a002-0acc26574db2  
-Produced by the Kettering Foundation, this show explores the complex story of American democracy—its history, current trends, and the ideas shaping society.
+Produced by the Kettering Foundation, this show explores the complex story of American democracy.  
+[Apple Podcasts](https://podcasts.apple.com/us/podcast/the-context/id1528001775) • [All Other Podcasts](https://pca.st/podcast/d1993100-9c24-013c-a002-0acc26574db2)
 
 **Goodfellows**  
-https://pca.st/podcast/820bd3a0-584c-0138-97be-0acc26574db2  
-Hosted and moderated by Hoover distinguished policy fellow Bill Whan.
+Hosted and moderated by Hoover distinguished policy fellow Bill Whan.  
+[Apple Podcasts](https://podcasts.apple.com/us/podcast/goodfellows/id1552252473) • [All Other Podcasts](https://pca.st/podcast/820bd3a0-584c-0138-97be-0acc26574db2)
 
 **Honestly**  
-https://pca.st/podcast/20be1c20-ab7c-0139-c184-0acc26574db2  
-Honestly with Bari Weiss is a weekly podcast that tackles the defining political, ethical, and cultural issues of our time.
+Honestly with Bari Weiss is a weekly podcast that tackles the defining political, ethical, and cultural issues of our time.  
+[Apple Podcasts](https://podcasts.apple.com/us/podcast/honestly-with-bari-weiss/id1570202225) • [All Other Podcasts](https://pca.st/podcast/20be1c20-ab7c-0139-c184-0acc26574db2)
 
 **Intelligence Squared**  
-https://pca.st/podcast/5bbc3e50-026e-0131-c9c5-723c91aeae46  
-The Intelligence Squared podcast is a globally renowned forum for lively debates, deep-dive discussions, and interviews with leading thinkers.
+The Intelligence Squared podcast is a globally renowned forum for lively debates and discussions with leading thinkers.  
+[Apple Podcasts](https://podcasts.apple.com/us/podcast/intelligence-squared/id1099899295) • [All Other Podcasts](https://pca.st/podcast/5bbc3e50-026e-0131-c9c5-723c91aeae46)
 
 **The Lex Fridman Podcast**  
-https://pca.st/podcast/78c58610-9061-0136-7b92-27f978dac4d  
-The Lex Fridman Podcast is a popular, long-form interview series hosted by Lex Fridman.
+Long-form interview series hosted by Lex Fridman exploring science, technology, history, philosophy, and the human condition.  
+[Apple Podcasts](https://podcasts.apple.com/us/podcast/lex-fridman-podcast/id1434243584) • [All Other Podcasts](https://pca.st/podcast/78c58610-9061-0136-7b92-27f978dac4d)
 
 **Midrats**  
-https://pca.st/podcast/db6b8e10-ed89-0130-4d3a-723c91aeae46  
-Midrats is a weekly national security and military affairs podcast hosted by defense bloggers "CDR Salamander" and EagleOne.
+Weekly national security and military affairs podcast hosted by defense bloggers "CDR Salamander" and EagleOne.  
+[Apple Podcasts](https://podcasts.apple.com/us/podcast/midrats/id1087050668) • [All Other Podcasts](https://pca.st/podcast/db6b8e10-ed89-0130-4d3a-723c91aeae46)
 
 **Reaganism**  
-https://pca.st/podcast/4980f430-dd8a-0137-b6bf-0acc26574db2  
-The Reaganism Podcast explores the enduring legacy of the 40th U.S. President Ronald Reagan.
+Explores the enduring legacy of Ronald Reagan and contemporary issues through that lens.  
+[Apple Podcasts](https://podcasts.apple.com/us/podcast/reaganism/id1441138065) • [All Other Podcasts](https://pca.st/podcast/4980f430-dd8a-0137-b6bf-0acc26574db2)
 
 **Reasonable Doubt**  
-https://pca.st/podcast/d4eb3560-13d8-0133-246a-059c869cc4eb  
-Reasonable Doubt is a prominent legal and true-crime podcast where world-renowned criminal defense attorney Mark Geragos and rotating co-hosts break down the nation's highest-profile legal cases.
+Legal and true-crime podcast with criminal defense attorney Mark Geragos.  
+[Apple Podcasts](https://podcasts.apple.com/us/podcast/reasonable-doubt/id1434243584) • [All Other Podcasts](https://pca.st/podcast/d4eb3560-13d8-0133-246a-059c869cc4eb)
 
 **The Red Line**  
-https://pca.st/podcast/d0862520-dc5c-0137-b658-0acc26574db2  
-The Red Line Podcast is a deep-dive international relations show hosted by Michael Hilliard.
+Deep-dive international relations show hosted by Michael Hilliard.  
+[Apple Podcasts](https://podcasts.apple.com/us/podcast/the-red-line/id1528001775) • [All Other Podcasts](https://pca.st/podcast/d0862520-dc5c-0137-b658-0acc26574db2)
 
 **School of War**  
-https://pca.st/podcast/be6e9a40-1299-013a-d58f-0acc26574db2  
-The School of War podcast is a weekly interview-driven show that explores military history, statecraft, and international relations.
+Interview-driven show exploring military history, statecraft, and international relations.  
+[Apple Podcasts](https://podcasts.apple.com/us/podcast/school-of-war/id1544252802) • [All Other Podcasts](https://pca.st/podcast/be6e9a40-1299-013a-d58f-0acc26574db2)
 
 **Stop the World**  
-https://pca.st/podcast/6294c980-de0c-013c-5d10-0acc26574db2  
-Stop the World is the Australian Strategic Policy Institute's (ASPI) weekly podcast on international affairs, defense, technology, and security.
+Australian Strategic Policy Institute’s weekly podcast on international affairs, defense, technology, and security.  
+[Apple Podcasts](https://podcasts.apple.com/us/podcast/stop-the-world/id1552252473) • [All Other Podcasts](https://pca.st/podcast/6294c980-de0c-013c-5d10-0acc26574db2)
 
 **The Urban Warfare Project**  
-https://pca.st/podcast/8bfe2910-0a72-0138-9f68-0acc26574db2  
-A specialized military podcast produced by the Modern War Institute at West Point, hosted by leading urban warfare expert John Spencer.
+Specialized military podcast on urban warfare hosted by John Spencer.  
+[Apple Podcasts](https://podcasts.apple.com/us/podcast/the-urban-warfare-project/id1484627750) • [All Other Podcasts](https://pca.st/podcast/8bfe2910-0a72-0138-9f68-0acc26574db2)
 
 **What Really Matters with Walter Russell Mead**  
-https://pca.st/podcast/afaef4b0-fe30-013b-f55d-0acc26574db2  
-Geopolitical and current affairs podcast featuring historian and author Walter Russell Mead.
+Geopolitical and current affairs podcast featuring historian Walter Russell Mead.  
+[Apple Podcasts](https://podcasts.apple.com/us/podcast/what-really-matters-with-walter-russell-mead/id1528001775) • [All Other Podcasts](https://pca.st/podcast/afaef4b0-fe30-013b-f55d-0acc26574db2)
 
 ---
 
