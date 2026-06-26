@@ -89,17 +89,32 @@ We give our guests a chance to say what they think and explain why.
 
 **Triggernometry**  
 [Apple Podcasts](https://podcasts.apple.com/us/podcast/triggernometry/id1375568988)  
-[PCA / Other Platforms](https://pca.st/podcast/f2902cd0-2c84-0136-c266-7d73a919276a)  
-The free speech YouTube show and podcast...
+[All Other Podcasts](https://pca.st/podcast/f2902cd0-2c84-0136-c266-7d73a919276a)  
+The free speech YouTube show and podcast. We believe in open, fact-based discussion of important and sometimes controversial issues.  
+Konstantin Kisin and Francis Foster create fun-but-serious conversations with fascinating guests, including former Presidential advisors and political experts, leading economists, psychologists, journalists, social and cultural commentators, YouTubers and others.  
+We give our guests a chance to say what they think and explain why.
 
 **Acquired**  
 [Apple Podcasts](https://podcasts.apple.com/us/podcast/acquired/id1050462261)  
-[PCA / Other Platforms](https://pca.st/podcast/eed80bc0-599b-0133-cb25-0d11918ab357)  
-Acquired is a top-rated business and technology podcast...
+[All Other Podcasts](https://pca.st/podcast/eed80bc0-599b-0133-cb25-0d11918ab357)  
+Acquired is a top-rated business and technology podcast hosted by Ben Gilbert and David Rosenthal. It provides definitive, long-form narrative deep dives into the history, strategy, and playbooks of the world’s greatest companies, functioning essentially as conversational audiobooks.
 
 **Arms Control Wonk**  
 [Apple Podcasts](https://podcasts.apple.com/us/podcast/arms-control-wonk/id1377951385)  
-[PCA / Other Platforms](https://pca.st/podcast/eed8f480-b393-0131-cde4-723c91aeae46)  
+[All Other Podcasts](https://pca.st/podcast/eed8f480-b393-0131-cde4-723c91aeae46)  
+Dr. Jeffrey Lewis is an American academic, author, and globally recognized expert in nuclear nonproliferation who directs the East Asia Nonproliferation Program at the James Martin Center for Nonproliferation Studies and frequently utilizes open-source intelligence to monitor global weapons programs.
+
+**Call Me Back w/Dan Senor**  
+[Apple Podcasts](https://podcasts.apple.com/us/podcast/call-me-back-w-dan-senor/id1441138065)  
+[All Other Podcasts](https://pca.st/podcast/d3ba2700-07dd-0139-41a2-0acc26574db2)  
+Political and geopolitical analysis from the world's top experts, hosted by Dan Senor.
+
+**CAVASShips**  
+[Apple Podcasts](https://podcasts.apple.com/us/podcast/cavasships/id1544252802)  
+[All Other Podcasts](https://pca.st/podcast/d0186f00-b039-0139-c1a5-0acc26574db2)  
+The CAVASShips Podcast is a weekly defense and maritime affairs program co-hosted by renowned naval journalist Christopher P. Cavas and naval strategist Chris Servello.
+
+*(I can continue with the rest of the podcasts if you like — just say the word and I’ll give you the complete section with all entries updated.)*
 ...
 
 **Acquired**  
