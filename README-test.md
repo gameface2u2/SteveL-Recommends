@@ -71,7 +71,9 @@ Investigative journalist, best-selling author, and founder of Public. Focuses on
 → [X](https://x.com/shellenberger) | [Public (Substack)](https://www.public.news/)
 
 ![Apple Podcasts](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Apple_Podcasts_logo.svg/512px-Apple_Podcasts_logo.svg.png)
+
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Apple_Podcasts_logo.svg/64px-Apple_Podcasts_logo.svg.png)](https://podcasts.apple.com/...)
+
 ---
 
 ## Podcasts
