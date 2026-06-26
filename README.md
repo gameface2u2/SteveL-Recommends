@@ -74,6 +74,8 @@ Investigative journalist, best-selling author, and founder of Public. Focuses on
 
 ## Podcasts
 
+## Podcasts
+
 **Triggernometry**  
 The free speech YouTube show and podcast. We believe in open, fact-based discussion of important and sometimes controversial issues.  
 Konstantin Kisin and Francis Foster create fun-but-serious conversations with fascinating guests, including former Presidential advisors and political experts, leading economists, psychologists, journalists, social and cultural commentators, YouTubers and others.  
@@ -86,7 +88,7 @@ Acquired is a top-rated business and technology podcast hosted by Ben Gilbert an
 
 **Arms Control Wonk**  
 Dr. Jeffrey Lewis is an American academic, author, and globally recognized expert in nuclear nonproliferation who directs the East Asia Nonproliferation Program at the James Martin Center for Nonproliferation Studies and frequently utilizes open-source intelligence to monitor global weapons programs.  
-[Apple Podcasts](https://podcasts.apple.com/us/podcast/arms-control-wonk/id1377951385) • [All Other Podcasts](https://pca.st/podcast/eed8f480-b393-0131-cde4-723c91aeae46)
+[Apple Podcasts](https://podcasts.apple.com/us/podcast/arms-control-wonk/id872594726) • [All Other Podcasts](https://pca.st/podcast/eed8f480-b393-0131-cde4-723c91aeae46)
 
 **Call Me Back w/Dan Senor**  
 Political and geopolitical analysis from the world's top experts, hosted by Dan Senor.  
