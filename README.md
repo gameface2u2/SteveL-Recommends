@@ -64,92 +64,93 @@ Note: Peter has strong opinions on the Trump administration — take those with 
 
 **[Preston Stewart](https://x.com/prestonstew_)**  
 West Point graduate, former U.S. Army Field Artillery officer, and Afghanistan combat veteran. Creates clear, well-researched content on modern military conflicts and weapons systems.  
-→ [YouTube](https://www.youtube.com/@PrestonStewart) | [X](https://x.com/prestonstew_)
+→ [X](https://x.com/prestonstew_) | [YouTube](https://www.youtube.com/@PrestonStewart)
 
 **[Michael Shellenberger](https://x.com/shellenberger)**  
 Investigative journalist, best-selling author, and founder of Public. Focuses on free speech, energy, environment, and the censorship-industrial complex.  
 → [X](https://x.com/shellenberger) | [Public (Substack)](https://www.public.news/)
+
 ---
 
 ## Podcasts
 
 **Triggernometry**  
-https://pca.st/podcast/f2902cd0-2c84-0136-c266-7d73a919276a  
 The free speech YouTube show and podcast. We believe in open, fact-based discussion of important and sometimes controversial issues.  
 Konstantin Kisin and Francis Foster create fun-but-serious conversations with fascinating guests, including former Presidential advisors and political experts, leading economists, psychologists, journalists, social and cultural commentators, YouTubers and others.  
-We give our guests a chance to say what they think and explain why.
+We give our guests a chance to say what they think and explain why.  
+[Apple Podcasts](https://podcasts.apple.com/us/podcast/triggernometry/id1375568988) • [All Other Podcasts](https://pca.st/podcast/f2902cd0-2c84-0136-c266-7d73a919276a)
 
 **Acquired**  
-https://pca.st/podcast/eed80bc0-599b-0133-cb25-0d11918ab357  
-Acquired is a top-rated business and technology podcast hosted by Ben Gilbert and David Rosenthal. It provides definitive, long-form narrative deep dives into the history, strategy, and playbooks of the world’s greatest companies, functioning essentially as conversational audiobooks.
+Acquired is a top-rated business and technology podcast hosted by Ben Gilbert and David Rosenthal. It provides definitive, long-form narrative deep dives into the history, strategy, and playbooks of the world’s greatest companies, functioning essentially as conversational audiobooks.  
+[Apple Podcasts](https://podcasts.apple.com/us/podcast/acquired/id1050462261) • [All Other Podcasts](https://pca.st/podcast/eed80bc0-599b-0133-cb25-0d11918ab357)
 
 **Arms Control Wonk**  
-https://pca.st/podcast/eed8f480-b393-0131-cde4-723c91aeae46  
-Dr. Jeffrey Lewis is an American academic, author, and globally recognized expert in nuclear nonproliferation who directs the East Asia Nonproliferation Program at the James Martin Center for Nonproliferation Studies and frequently utilizes open-source intelligence to monitor global weapons programs.
+Dr. Jeffrey Lewis is an American academic, author, and globally recognized expert in nuclear nonproliferation who directs the East Asia Nonproliferation Program at the James Martin Center for Nonproliferation Studies and frequently utilizes open-source intelligence to monitor global weapons programs.  
+[Apple Podcasts](https://podcasts.apple.com/us/podcast/arms-control-wonk/id1377951385) • [All Other Podcasts](https://pca.st/podcast/eed8f480-b393-0131-cde4-723c91aeae46)
 
 **Call Me Back w/Dan Senor**  
-https://pca.st/podcast/d3ba2700-07dd-0139-41a2-0acc26574db2  
-Political and geopolitical analysis from the world's top experts, hosted by Dan Senor.
+Political and geopolitical analysis from the world's top experts, hosted by Dan Senor.  
+[Apple Podcasts](https://podcasts.apple.com/us/podcast/call-me-back-w-dan-senor/id1441138065) • [All Other Podcasts](https://pca.st/podcast/d3ba2700-07dd-0139-41a2-0acc26574db2)
 
 **CAVASShips**  
-https://pca.st/podcast/d0186f00-b039-0139-c1a5-0acc26574db2  
-The CAVASShips Podcast is a weekly defense and maritime affairs program co-hosted by renowned naval journalist Christopher P. Cavas and naval strategist Chris Servello.
+The CAVASShips Podcast is a weekly defense and maritime affairs program co-hosted by renowned naval journalist Christopher P. Cavas and naval strategist Chris Servello.  
+[Apple Podcasts](https://podcasts.apple.com/us/podcast/cavasships/id1544252802) • [All Other Podcasts](https://pca.st/podcast/d0186f00-b039-0139-c1a5-0acc26574db2)
 
 **China Unscripted**  
-https://pca.st/podcast/71565c80-66e3-0136-4e65-69745d675bc7  
-The China Unscripted podcast is an off-the-cuff, conversational spin-off of the popular satirical YouTube show China Uncensored.
+The China Unscripted podcast is an off-the-cuff, conversational spin-off of the popular satirical YouTube show China Uncensored.  
+[Apple Podcasts](https://podcasts.apple.com/us/podcast/china-unscripted/id1484627750) • [All Other Podcasts](https://pca.st/podcast/71565c80-66e3-0136-4e65-69745d675bc7)
 
 **The Context**  
-https://pca.st/podcast/d1993100-9c24-013c-a002-0acc26574db2  
-Produced by the Kettering Foundation, this show explores the complex story of American democracy.
+Produced by the Kettering Foundation, this show explores the complex story of American democracy.  
+[Apple Podcasts](https://podcasts.apple.com/us/podcast/the-context/id1528001775) • [All Other Podcasts](https://pca.st/podcast/d1993100-9c24-013c-a002-0acc26574db2)
 
 **Goodfellows**  
-https://pca.st/podcast/820bd3a0-584c-0138-97be-0acc26574db2  
-Hosted and moderated by Hoover distinguished policy fellow Bill Whan.
+Hosted and moderated by Hoover distinguished policy fellow Bill Whan.  
+[Apple Podcasts](https://podcasts.apple.com/us/podcast/goodfellows/id1552252473) • [All Other Podcasts](https://pca.st/podcast/820bd3a0-584c-0138-97be-0acc26574db2)
 
 **Honestly**  
-https://pca.st/podcast/20be1c20-ab7c-0139-c184-0acc26574db2  
-Honestly with Bari Weiss is a weekly podcast that tackles the defining political, ethical, and cultural issues of our time.
+Honestly with Bari Weiss is a weekly podcast that tackles the defining political, ethical, and cultural issues of our time.  
+[Apple Podcasts](https://podcasts.apple.com/us/podcast/honestly-with-bari-weiss/id1570202225) • [All Other Podcasts](https://pca.st/podcast/20be1c20-ab7c-0139-c184-0acc26574db2)
 
 **Intelligence Squared**  
-https://pca.st/podcast/5bbc3e50-026e-0131-c9c5-723c91aeae46  
-The Intelligence Squared podcast is a globally renowned forum for lively debates and discussions with leading thinkers.
+The Intelligence Squared podcast is a globally renowned forum for lively debates and discussions with leading thinkers.  
+[Apple Podcasts](https://podcasts.apple.com/us/podcast/intelligence-squared/id1099899295) • [All Other Podcasts](https://pca.st/podcast/5bbc3e50-026e-0131-c9c5-723c91aeae46)
 
 **The Lex Fridman Podcast**  
-https://pca.st/podcast/78c58610-9061-0136-7b92-27f978dac4d  
-Long-form interview series hosted by Lex Fridman exploring science, technology, history, philosophy, and the human condition.
+Long-form interview series hosted by Lex Fridman exploring science, technology, history, philosophy, and the human condition.  
+[Apple Podcasts](https://podcasts.apple.com/us/podcast/lex-fridman-podcast/id1434243584) • [All Other Podcasts](https://pca.st/podcast/78c58610-9061-0136-7b92-27f978dac4d)
 
 **Midrats**  
-https://pca.st/podcast/db6b8e10-ed89-0130-4d3a-723c91aeae46  
-Weekly national security and military affairs podcast hosted by defense bloggers "CDR Salamander" and EagleOne.
+Weekly national security and military affairs podcast hosted by defense bloggers "CDR Salamander" and EagleOne.  
+[Apple Podcasts](https://podcasts.apple.com/us/podcast/midrats/id1087050668) • [All Other Podcasts](https://pca.st/podcast/db6b8e10-ed89-0130-4d3a-723c91aeae46)
 
 **Reaganism**  
-https://pca.st/podcast/4980f430-dd8a-0137-b6bf-0acc26574db2  
-Explores the enduring legacy of Ronald Reagan and contemporary issues through that lens.
+Explores the enduring legacy of Ronald Reagan and contemporary issues through that lens.  
+[Apple Podcasts](https://podcasts.apple.com/us/podcast/reaganism/id1441138065) • [All Other Podcasts](https://pca.st/podcast/4980f430-dd8a-0137-b6bf-0acc26574db2)
 
 **Reasonable Doubt**  
-https://pca.st/podcast/d4eb3560-13d8-0133-246a-059c869cc4eb  
-Legal and true-crime podcast with criminal defense attorney Mark Geragos.
+Legal and true-crime podcast with criminal defense attorney Mark Geragos.  
+[Apple Podcasts](https://podcasts.apple.com/us/podcast/reasonable-doubt/id1434243584) • [All Other Podcasts](https://pca.st/podcast/d4eb3560-13d8-0133-246a-059c869cc4eb)
 
 **The Red Line**  
-https://pca.st/podcast/d0862520-dc5c-0137-b658-0acc26574db2  
-Deep-dive international relations show hosted by Michael Hilliard.
+Deep-dive international relations show hosted by Michael Hilliard.  
+[Apple Podcasts](https://podcasts.apple.com/us/podcast/the-red-line/id1528001775) • [All Other Podcasts](https://pca.st/podcast/d0862520-dc5c-0137-b658-0acc26574db2)
 
 **School of War**  
-https://pca.st/podcast/be6e9a40-1299-013a-d58f-0acc26574db2  
-Interview-driven show exploring military history, statecraft, and international relations.
+Interview-driven show exploring military history, statecraft, and international relations.  
+[Apple Podcasts](https://podcasts.apple.com/us/podcast/school-of-war/id1544252802) • [All Other Podcasts](https://pca.st/podcast/be6e9a40-1299-013a-d58f-0acc26574db2)
 
 **Stop the World**  
-https://pca.st/podcast/6294c980-de0c-013c-5d10-0acc26574db2  
-Australian Strategic Policy Institute’s weekly podcast on international affairs, defense, technology, and security.
+Australian Strategic Policy Institute’s weekly podcast on international affairs, defense, technology, and security.  
+[Apple Podcasts](https://podcasts.apple.com/us/podcast/stop-the-world/id1552252473) • [All Other Podcasts](https://pca.st/podcast/6294c980-de0c-013c-5d10-0acc26574db2)
 
 **The Urban Warfare Project**  
-https://pca.st/podcast/8bfe2910-0a72-0138-9f68-0acc26574db2  
-Specialized military podcast on urban warfare hosted by John Spencer.
+Specialized military podcast on urban warfare hosted by John Spencer.  
+[Apple Podcasts](https://podcasts.apple.com/us/podcast/the-urban-warfare-project/id1484627750) • [All Other Podcasts](https://pca.st/podcast/8bfe2910-0a72-0138-9f68-0acc26574db2)
 
 **What Really Matters with Walter Russell Mead**  
-https://pca.st/podcast/afaef4b0-fe30-013b-f55d-0acc26574db2  
-Geopolitical and current affairs podcast featuring historian Walter Russell Mead.
+Geopolitical and current affairs podcast featuring historian Walter Russell Mead.  
+[Apple Podcasts](https://podcasts.apple.com/us/podcast/what-really-matters-with-walter-russell-mead/id1528001775) • [All Other Podcasts](https://pca.st/podcast/afaef4b0-fe30-013b-f55d-0acc26574db2)
 
 ---
 
@@ -167,6 +168,9 @@ Geopolitical and current affairs podcast featuring historian Walter Russell Mead
 - **[Call Me Back Podcast](https://www.youtube.com/@CallMeBackPodcast)** — Dan Senor  
   Geopolitical analysis with a focus on Israel, the Middle East, and global affairs.
 
+- **[Peter Zeihan](https://www.youtube.com/@ZeihanonGeopolitics)** — Peter Zeihan  
+  Geopolitical strategist and best-selling author. Clear, data-driven forecasts on global trends, geography, demography, and energy.
+
 - **[China Unscripted](https://www.youtube.com/@ChinaUnscripted)** — Chris Chappell  
   Candid, less-scripted conversations about Chinese politics, culture, and society.
 
@@ -180,10 +184,7 @@ Geopolitical and current affairs podcast featuring historian Walter Russell Mead
   Long-form, deep conversations exploring science, technology, philosophy, and the human condition.
 
 - **[Preston Stewart](https://www.youtube.com/@PrestonStewart)** — Preston Stewart  
-  Clear, well-researched analysis of modern military conflicts, weapons systems, and defense topics.
-
-- **[Peter Zeihan](https://www.youtube.com/@ZeihanonGeopolitics)** — Peter Zeihan  
-  Geopolitical strategist and best-selling author. Clear, data-driven forecasts on global trends, geography, demography, and energy.
+  Clear, well-researched analysis of modern military conflicts, weapons systems, and defense topics.  
 
 - **[All Hands Magazine](https://www.youtube.com/@AllHandsMagazine)** — Midrats  
   National security and military affairs podcast (video version).
@@ -212,6 +213,8 @@ Geopolitical and current affairs podcast featuring historian Walter Russell Mead
 - **[thatsKAIZEN](https://www.youtube.com/@thatsKAIZEN)** — Kaizen Asiedu  
   Philosophy, culture, and commentary aimed at cutting through media bias.
 
+
+
 ---
 
 ## X / Twitter Accounts
@@ -229,6 +232,7 @@ Geopolitical and current affairs podcast featuring historian Walter Russell Mead
 - **[Peter Zeihan](https://x.com/PeterZeihan)** — Geopolitical forecaster. Strong opinions on the Trump administration — take with a grain of salt.
 - **[Bill Ackman](https://x.com/BillAckman)** — Hedge fund manager and activist investor.
 - **[Harmeet Dhillon](https://x.com/HarmeetKDhillon)** — Attorney and Republican political figure.
+- **[Michael Shellenberger](https://x.com/shellenberger)** — Investigative journalist, author, and founder of Public. Focuses on free speech, energy, environment, and the censorship-industrial complex.
 - **[Visegrad 24](https://x.com/visegrad24)** — News aggregator focused on Europe and global events.
 - **[DataRepublican](https://x.com/DataRepublican)** — Jennica Pounds — Tracks federal spending and government data.
 - **[InfantryDort](https://x.com/infantrydort)** — Active duty Army officer focused on military reform.
@@ -237,8 +241,6 @@ Geopolitical and current affairs podcast featuring historian Walter Russell Mead
 - **[Mike Mazza](https://x.com/mike_mazza)** — U.S.-Asia policy and political commentator.
 - **[Kaizen Asiedu](https://x.com/thatsKAIZEN)** — Philosopher and cultural commentator.
 - **[Preston Stewart](https://x.com/prestonstew_)** — Military analysis and modern warfare commentary.
-- **[Michael Shellenberger](https://x.com/shellenberger)**  
-  Investigative journalist, author, and founder of Public. Focuses on free speech, energy, environment, and the censorship-industrial complex.
 
 ---
 
@@ -258,10 +260,11 @@ Geopolitical and current affairs podcast featuring historian Walter Russell Mead
 ## Publications & Newsletters
 
 - **[The Free Press](https://www.thefp.com/)** — Bari Weiss  
-  Independent media outlet founded by Bari Weiss. Focuses on in-depth journalism, essays, and investigations that often challenge mainstream narratives on culture, politics, technology, and free speech.
+  Independent media outlet founded by Bari Weiss after her departure from The New York Times. Focuses on in-depth journalism, essays, and investigations that often challenge mainstream narratives on culture, politics, technology, and free speech. Features high-quality writing from a wide range of contributors and includes the popular *Honestly* podcast.
 
 - **[gCaptain](https://gcaptain.com/)** — John Konrad V  
-  The leading online news platform and professional network for the global maritime industry. Provides timely news, analysis, and commentary on shipping, offshore energy, maritime security, and naval affairs.
+  The leading online news platform and professional network for the global maritime industry. Provides timely news, analysis, and commentary on shipping, offshore energy, maritime security, shipbuilding, and naval affairs. Highly respected by merchant mariners, shipping executives, and maritime professionals worldwide.
+
 
 ---
 
