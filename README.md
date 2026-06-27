@@ -41,6 +41,10 @@ Host of *China Unscripted*. Candid discussions on Chinese politics and culture.
 Founder of *The Free Press*. Strong voice on culture, free speech, and journalism.  
 → [X](https://x.com/bariweiss) | [YouTube](https://www.youtube.com/@thefreepress) | [The Free Press](https://www.thefp.com/)
 
+**[CynicalPublius](https://x.com/CynicalPublius)**  
+Sharp, historically-informed commentator on politics, culture, and human nature. Known for insightful threads that blend classical knowledge with modern events and a healthy dose of cynicism.  
+→ [X](https://x.com/CynicalPublius)
+
 **[Lex Fridman](https://x.com/lexfridman)**  
 Long-form interviewer exploring science, technology, philosophy, and the human condition.  
 → [X](https://x.com/lexfridman) | [YouTube](https://www.youtube.com/@lexfridman) | [Substack](https://lexfridman.substack.com/)
