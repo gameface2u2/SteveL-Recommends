@@ -10,10 +10,6 @@ Curated list of people, podcasts, YouTube channels, writers, and publications I 
 
 **[Konstantin Kisin](https://x.com/KonstantinKisin)**  
 Co-host of *Triggernometry*. Excellent on free speech, culture, geopolitics, and current events.  
-→ [X](https://x.com/KonstantinKisin) | [YouTube](https://www.youtube.com/@triggerpod) | [Podcast](https://podcasts.apple.com/us/podcast/triggernometry/id1375568988)
-
-**[Konstantin Kisin](https://x.com/KonstantinKisin)**  
-Co-host of *Triggernometry*. Excellent on free speech, culture, geopolitics, and current events.  
 → [X](https://x.com/KonstantinKisin) | [YouTube](https://www.youtube.com/@triggerpod) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/triggernometry/id1375568988) • [All Other Podcasts](https://pca.st/podcast/f2902cd0-2c84-0136-c266-7d73a919276a)
 
 **[Ben Gilbert & David Rosenthal](https://x.com/gilbert)**  
