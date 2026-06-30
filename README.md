@@ -245,6 +245,7 @@ Geopolitical and current affairs podcast featuring historian Walter Russell Mead
 - **[Michael Shellenberger](https://x.com/shellenberger)** — Investigative journalist, author, and founder of Public. Focuses on free speech, energy, environment, and the censorship-industrial complex.
 - **[CynicalPublius](https://x.com/CynicalPublius)** — Insightful and historically-literate commentator on politics, culture, and society.
 - **[Visegrad 24](https://x.com/visegrad24)** — News aggregator focused on Europe and global events.
+- **[Tymofiy Mylovanov](https://x.com)** — Former Minister of Economic Development, Trade, and Agriculture for Ukraine.
 - **[DataRepublican](https://x.com/DataRepublican)** — Jennica Pounds — Tracks federal spending and government data.
 - **[InfantryDort](https://x.com/infantrydort)** — Active duty Army officer focused on military reform.
 - **[Edward Mehr](https://x.com/EdwardMehr)** — Entrepreneur and manufacturing innovator.
