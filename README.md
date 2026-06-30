@@ -12,6 +12,9 @@ Curated list of people, podcasts, YouTube channels, writers, and publications I 
 Co-host of *Triggernometry*. Excellent on free speech, culture, geopolitics, and current events.  
 → [X](https://x.com/KonstantinKisin) | [YouTube / Podcast](https://www.youtube.com/@triggerpod)
 
+**[Konstantin Kisin](https://x.com/KonstantinKisin)** Co-host of *Triggernometry*. Excellent on free speech, culture, geopolitics, and current events. → [X](https://x.com/KonstantinKisin) | [YouTube](https://www.youtube.com/@triggerpod) | [Podcast](https://pocketcasts.com/podcast/triggernometry/f2902cd0-2c84-0136-c266-7d73a919276a)
+
+
 **[Francis Foster](https://x.com/francisjfoster)**  
 Co-host of *Triggernometry*. Thoughtful long-form conversations.  
 → [X](https://x.com/francisjfoster) | [YouTube / Podcast](https://www.youtube.com/@triggerpod)
