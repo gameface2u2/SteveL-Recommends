@@ -12,10 +12,6 @@ Curated list of people, podcasts, YouTube channels, writers, and publications I 
 Co-hosts of *Triggernometry*. Excellent on free speech, culture, geopolitics, and current events with thoughtful long-form conversations.  
 → [X - Konstantin](https://x.com/KonstantinKisin) | [X - Francis](https://x.com/francisjfoster) | [YouTube](https://www.youtube.com/@triggerpod) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/triggernometry/id1375568988) • [All Other Podcasts](https://pca.st/podcast/f2902cd0-2c84-0136-c266-7d73a919276a)
 
-**[Ben Gilbert & David Rosenthal](https://x.com/gilbert)**  
-Hosts of *Acquired* — one of the best business and technology history podcasts.  
-→ [X](https://x.com/gilbert) | [Podcast](https://pca.st/podcast/eed80bc0-599b-0133-cb25-0d11918ab357)
-
 **[Ben Gilbert](https://x.com/gilbert) & [David Rosenthal](https://x.com/davidmrosenthal)**  
 Hosts of *Acquired* — one of the best business and technology history podcasts.  
 → [X - Ben](https://x.com/gilbert) | [X - David](https://x.com/davidmrosenthal) | [YouTube](https://www.youtube.com/@AcquiredFM) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/acquired/id1050462261) • [All Other Podcasts](https://pca.st/podcast/eed80bc0-599b-0133-cb25-0d11918ab357)
@@ -23,6 +19,9 @@ Hosts of *Acquired* — one of the best business and technology history podcasts
 **[Tymofiy Mylovanov](https://x.com/Mylovanov)** Former Minister of Economic Development, Trade, and Agriculture for Ukraine — leading post-revolution reforms and managing national economic policy
 → [X](https://x.com/Mylovanov) | [Government Profile](https://kse.ua)
 
+**[Tymofiy Mylovanov](https://x.com/Mylovanov)**  
+Former Minister of Economic Development, Trade, and Agriculture for Ukraine — leading post-revolution reforms and managing national economic policy.  
+→ [X](https://x.com/Mylovanov) | [Government Profile](https://kse.ua)
 
 **[Jeffrey Lewis](https://x.com/ArmsControlWonk)**  
 Nuclear nonproliferation expert and host of *Arms Control Wonk*. Uses open-source intelligence.  
