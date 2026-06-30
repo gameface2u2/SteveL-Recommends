@@ -33,6 +33,19 @@ Host of *Call Me Back*. Sharp geopolitical analysis, especially on Israel and th
 Hosts of *CAVASShips*. Deep dives into naval strategy and maritime affairs.  
 → [X](https://x.com/CavasShips) | [Podcast](https://pca.st/podcast/d0186f00-b039-0139-c1a5-0acc26574db2)
 
+**[Jeffrey Lewis](https://x.com/ArmsControlWonk)**  
+Nuclear nonproliferation expert and host of *Arms Control Wonk*. Uses open-source intelligence.  
+Warning, Jeffrey is very sarcastic, and that's not everyone's jam. Also he's not a big Trump fan.  
+→ [X](https://x.com/ArmsControlWonk) | [YouTube](https://www.youtube.com/@armscontrolwonk) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/arms-control-wonk/id872594726) • [All Other Podcasts](https://pca.st/podcast/eed8f480-b393-0131-cde4-723c91aeae46)
+
+**[Dan Senor](https://x.com/dansenor)**  
+Host of *Call Me Back*. Sharp geopolitical analysis, especially on Israel and the Middle East.  
+→ [X](https://x.com/dansenor) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/call-me-back-w-dan-senor/id1441138065) • [All Other Podcasts](https://pca.st/podcast/d3ba2700-07dd-0139-41a2-0acc26574db2)
+
+**[Christopher Cavas & Chris Servello](https://x.com/CavasShips)**  
+Hosts of *CAVASShips*. Deep dives into naval strategy and maritime affairs.  
+→ [X](https://x.com/CavasShips) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/cavasships/id1544252802) • [All Other Podcasts](https://pca.st/podcast/d0186f00-b039-0139-c1a5-0acc26574db2)
+
 **[Chris Chappell](https://x.com/ChinaUncensored)**  
 Host of *China Unscripted*. Candid discussions on Chinese politics and culture.  
 → [X](https://x.com/ChinaUncensored) | [YouTube](https://www.youtube.com/@ChinaUnscripted)
