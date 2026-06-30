@@ -20,6 +20,9 @@ Co-host of *Triggernometry*. Thoughtful long-form conversations.
 Hosts of *Acquired* — one of the best business and technology history podcasts.  
 → [X](https://x.com/gilbert) | [Podcast](https://pca.st/podcast/eed80bc0-599b-0133-cb25-0d11918ab357)
 
+**[Tymofiy Mylovanov](https://x.com)** Former Minister of Economic Development, Trade, and Agriculture for Ukraine — leading post-revolution reforms and managing national economic policy.
+→ [X](https://x.com) | [Government Profile](https://kse.ua)
+
 **[Jeffrey Lewis](https://x.com/ArmsControlWonk)**  
 Nuclear nonproliferation expert and host of *Arms Control Wonk*. Uses open-source intelligence.  
 Warning, Jeffrey is very sarcastic, and that's not everyone's jam. Also he's not a big Trump fan.  
