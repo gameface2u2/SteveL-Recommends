@@ -65,6 +65,14 @@ Urban warfare expert at West Point. Host of *The Urban Warfare Project*.
 Historian offering deep historical context on geopolitics and international affairs.  
 → [X](https://x.com/wrmead) | [Podcast](https://pca.st/podcast/afaef4b0-fe30-013b-f55d-0acc26574db2) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/what-really-matters-with-walter-russell-mead/id1528001775) • [All Other Podcasts](https://pca.st/podcast/afaef4b0-fe30-013b-f55d-0acc26574db2)
 
+**[John Spencer](https://x.com/SpencerGuard)**  
+Urban warfare expert at West Point. Host of *The Urban Warfare Project*.  
+→ [X](https://x.com/SpencerGuard) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/the-urban-warfare-project/id1484627750) • [All Other Podcasts](https://pca.st/podcast/8bfe2910-0a72-0138-9f68-0acc26574db2) | [Substack](https://spencerguard.substack.com/)
+
+**[Walter Russell Mead](https://x.com/wrmead)**  
+Historian offering deep historical context on geopolitics and international affairs.  
+→ [X](https://x.com/wrmead) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/what-really-matters-with-walter-russell-mead/id1528001775) • [All Other Podcasts](https://pca.st/podcast/afaef4b0-fe30-013b-f55d-0acc26574db2)
+
 **[Sal Mercogliano](https://x.com/mercoglianos)**  
 Maritime historian and host of *What's Going on With Shipping?*.  
 → [X](https://x.com/mercoglianos) | [YouTube](https://www.youtube.com/@wgowshipping)
