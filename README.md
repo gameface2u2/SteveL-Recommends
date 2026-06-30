@@ -12,6 +12,10 @@ Curated list of people, podcasts, YouTube channels, writers, and publications I 
 Co-host of *Triggernometry*. Excellent on free speech, culture, geopolitics, and current events.  
 → [X](https://x.com/KonstantinKisin) | [YouTube / Podcast](https://www.youtube.com/@triggerpod)
 
+**[Konstantin Kisin](https://x.com/KonstantinKisin)**  
+Co-host of *Triggernometry*. Excellent on free speech, culture, geopolitics, and current events.  
+→ [X](https://x.com/KonstantinKisin) | [YouTube](https://www.youtube.com/@triggerpod) | [Podcast](https://podcasts.apple.com/us/podcast/triggernometry/id1375568988)
+
 **[Ben Gilbert & David Rosenthal](https://x.com/gilbert)**  
 Hosts of *Acquired* — one of the best business and technology history podcasts.  
 → [X](https://x.com/gilbert) | [Podcast](https://pca.st/podcast/eed80bc0-599b-0133-cb25-0d11918ab357)
