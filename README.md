@@ -16,6 +16,10 @@ Co-hosts of *Triggernometry*. Excellent on free speech, culture, geopolitics, an
 Hosts of *Acquired* — one of the best business and technology history podcasts.  
 → [X](https://x.com/gilbert) | [Podcast](https://pca.st/podcast/eed80bc0-599b-0133-cb25-0d11918ab357)
 
+**[Ben Gilbert](https://x.com/gilbert) & [David Rosenthal](https://x.com/davidmrosenthal)**  
+Hosts of *Acquired* — one of the best business and technology history podcasts.  
+→ [X - Ben](https://x.com/gilbert) | [X - David](https://x.com/davidmrosenthal) | [Podcast](https://pca.st/podcast/eed80bc0-599b-0133-cb25-0d11918ab357)
+
 **[Tymofiy Mylovanov](https://x.com/Mylovanov)** Former Minister of Economic Development, Trade, and Agriculture for Ukraine — leading post-revolution reforms and managing national economic policy
 → [X](https://x.com/Mylovanov) | [Government Profile](https://kse.ua)
 
