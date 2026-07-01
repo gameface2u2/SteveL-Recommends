@@ -162,6 +162,10 @@ Specialized military podcast on urban warfare hosted by John Spencer.
 Geopolitical and current affairs podcast featuring historian Walter Russell Mead.  
 [Apple Podcasts](https://podcasts.apple.com/us/podcast/what-really-matters-with-walter-russell-mead/id1528001775) • [All Other Podcasts](https://pca.st/podcast/afaef4b0-fe30-013b-f55d-0acc26574db2)
 
+**The Saad Truth**  
+The Saad Truth with Dr. Gad Saad is a podcast where evolutionary behavioral scientist Gad Saad discusses psychology, consumer behavior, politics, culture, and the application of science to everyday life.  
+[Apple Podcasts](https://podcasts.apple.com/us/podcast/the-saad-truth-with-dr-saad/id1516343565) • [All Other Podcasts](https://pca.st/podcast/1516343565)
+
 ---
 
 ## YouTube Channels
