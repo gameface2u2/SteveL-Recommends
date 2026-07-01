@@ -223,7 +223,7 @@ Geopolitical and current affairs podcast featuring historian Walter Russell Mead
 - **[thatsKAIZEN](https://www.youtube.com/@thatsKAIZEN)** — Kaizen Asiedu  
   Philosophy, culture, and commentary aimed at cutting through media bias.
 
-  **[Gad Saad](https://www.youtube.com/@GadSaad)** — Evolutionary psychology, consumer behavior, and cultural commentary from a scientific perspective.
+- **[Gad Saad](https://www.youtube.com/@GadSaad)** — Evolutionary psychology, consumer behavior, and cultural commentary from a scientific perspective.
 
 ---
 
