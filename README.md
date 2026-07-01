@@ -74,6 +74,10 @@ West Point graduate, former U.S. Army Field Artillery officer, and Afghanistan c
 Investigative journalist, best-selling author, and founder of Public. Focuses on free speech, energy, environment, and the censorship-industrial complex.  
 → [X](https://x.com/shellenberger) | [Public (Substack)](https://www.public.news/)
 
+**[Gad Saad](https://x.com/GadSaad)**  
+Evolutionary behavioral scientist, Professor of Marketing at Concordia University, and host of *The Saad Truth*. Author of *The Parasitic Mind* and outspoken defender of reason, science, and free speech.  
+→ [X](https://x.com/GadSaad) | [YouTube](https://www.youtube.com/@GadSaad) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/the-saad-truth-with-dr-saad/id1516343565) • [All Other Podcasts](https://pca.st/podcast/1516343565)
+
 ---
 
 ## Podcasts
@@ -219,7 +223,7 @@ Geopolitical and current affairs podcast featuring historian Walter Russell Mead
 - **[thatsKAIZEN](https://www.youtube.com/@thatsKAIZEN)** — Kaizen Asiedu  
   Philosophy, culture, and commentary aimed at cutting through media bias.
 
-
+  **[Gad Saad](https://www.youtube.com/@GadSaad)** — Evolutionary psychology, consumer behavior, and cultural commentary from a scientific perspective.
 
 ---
 
@@ -249,6 +253,7 @@ Geopolitical and current affairs podcast featuring historian Walter Russell Mead
 - **[Mike Mazza](https://x.com/mike_mazza)** — U.S.-Asia policy and political commentator.
 - **[Kaizen Asiedu](https://x.com/thatsKAIZEN)** — Philosopher and cultural commentator.
 - **[Preston Stewart](https://x.com/prestonstew_)** — Military analysis and modern warfare commentary.
+- **[Gad Saad](https://x.com/GadSaad)** — Evolutionary behavioral scientist and professor. Sharp critic of ideological thinking and defender of science and reason.
 
 ---
 
